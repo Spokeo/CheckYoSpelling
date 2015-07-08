@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    spell_checker_usa (0.1.0)
+    spell_checker (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -32,4 +32,4 @@ DEPENDENCIES
   levenshtein (~> 0.2.2)
   rake
   rspec (~> 3.0.0.beta1)
-  spell_checker_usa!
+  spell_checker!

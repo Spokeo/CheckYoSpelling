@@ -1,16 +1,16 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'spell_checker_usa/version'
+require 'spell_checker/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "spell_checker_usa"
-  spec.version       = SpellCheckerUSA::VERSION
+  spec.name          = "spell_checker"
+  spec.version       = SpellChecker::VERSION
   spec.authors       = ["Austin Fonacier", "Eric Kuecks", "Emily Lutz"]
   spec.email         = ["austin@spokeo.com", "ekuecks@ucla.edu", "emily.lutz@berkeley.edu"]
   spec.summary       = "Spell checker for U.S. cities and states"
   spec.description   = "Spell checker for U.S. cities and states"
-  spec.homepage      = "https://github.com/spokeo/SpellCheckerUSA"
+  spec.homepage      = "https://github.com/spokeo/SpellChecker"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
