@@ -35,6 +35,7 @@ module SpellCheckerUSA
           break if distance == 0 # Found perfect match
         end
         best_match = present(best_match) if best_match
+        best_match
       end
 
       def words filename
