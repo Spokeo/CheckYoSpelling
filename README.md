@@ -1,31 +1,31 @@
-# spell_checker
+# check_yo_spelling
 This gem offers spelling suggestions for cities and states in the United States
 
 ## Installation
 
 Add this line to your applications's Gemfile:
-  gem 'spell_checker'
+  gem 'check_yo_spelling'
 
 and then execute:
   $ bundle
 
 or install it yourself as:
-  $ gem install 'spell_checker'
+  $ gem install 'check_yo_spelling'
 
 ## Examples
 ```ruby
 
 # State Checking
-SpellChecker::USA.check_state("Alabma")
+CheckYoSpelling::USA.check_state("Alabma")
 # => "Alabama"
 
 # City Checking
-SpellChecker::USA.check_city("Montgomry", "AL")
+CheckYoSpelling::USA.check_city("Montgomry", "AL")
 # => "Montgomery"
 
 ## Contributing
 
-1. Fork it ( http://github.com/Spokeo/SpellChecker/fork )
+1. Fork it ( http://github.com/Spokeo/CheckYoSpelling/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Write specs!
 4. Commit your changes (`git commit -am 'Add some feature'`)

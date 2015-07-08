@@ -1,4 +1,4 @@
-module SpellChecker
+module CheckYoSpelling
   class USA
     # Use the Levenshtein gem to find the closest match
     # NOTE: the gem treats replacement edits as a distance of 2

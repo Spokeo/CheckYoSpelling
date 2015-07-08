@@ -1,3 +1,3 @@
-require 'spell_checker'
+require 'check_yo_spelling'
 require 'geolookup'
 require 'levenshtein'

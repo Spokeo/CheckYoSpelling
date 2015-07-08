@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    spell_checker (0.1.0)
+    check_yo_spelling (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -28,8 +28,8 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 1.5)
+  check_yo_spelling!
   geolookup (~> 0.5.10)
   levenshtein (~> 0.2.2)
   rake
   rspec (~> 3.0.0.beta1)
-  spell_checker!
