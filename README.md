@@ -1,4 +1,6 @@
 # check_yo_spelling
+[![Code Climate](https://codeclimate.com/github/Spokeo/CheckYoSpelling.png)](https://codeclimate.com/github/Spokeo/CheckYoSpelling)
+
 This gem offers spelling suggestions for cities and states in the United States
 
 ## Installation
