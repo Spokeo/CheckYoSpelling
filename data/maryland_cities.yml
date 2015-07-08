@@ -1,0 +1,483 @@
+---
+- aberdeen
+- aberdeen proving ground
+- accident
+- accokeek
+- adamstown
+- adelphi
+- algonquin
+- allen
+- andrews afb
+- annapolis
+- annapolis neck
+- aquasco
+- arbutus
+- arden on the severn
+- arnold
+- ashton sandy spring
+- aspen hill
+- baden
+- bagtown
+- ballenger creek
+- baltimore
+- baltimore highlands
+- barclay
+- barnesville
+- barton
+- bartonsville
+- beaver creek
+- bel air
+- bel air north
+- bel air south
+- beltsville
+- benedict
+- bensville
+- berlin
+- berwyn heights
+- bethesda
+- betterton
+- bier
+- bishopville
+- bivalve
+- bladensburg
+- bloomington
+- boonsboro
+- bowie
+- bowleys quarters
+- bowling green
+- bowmans addition
+- braddock heights
+- brandywine
+- breathedsville
+- brentwood
+- brock hall
+- brookeville
+- brooklyn park
+- brookmont
+- broomes island
+- brunswick
+- bryans road
+- bryantown
+- buckeystown
+- burkittsville
+- burtonsville
+- butlertown
+- cabin john
+- california
+- calvert beach
+- calverton
+- cambridge
+- camp springs
+- cape st claire
+- capitol heights
+- carlos
+- carney
+- catonsville
+- cavetown
+- cearfoss
+- cecilton
+- cedarville
+- centreville
+- chance
+- charlestown
+- charlotte hall
+- charlton
+- chesapeake beach
+- chesapeake city
+- chesapeake ranch estates
+- chester
+- chestertown
+- cheverly
+- chevy chase
+- chevy chase section five village
+- chevy chase section three village
+- chevy chase view
+- chevy chase village
+- chewsville
+- chillum
+- choptank
+- church creek
+- church hill
+- clarksburg
+- clear spring
+- clinton
+- cloverly
+- cobb island
+- cockeysville
+- colesville
+- college park
+- colmar manor
+- columbia
+- coral hills
+- cordova
+- corriganville
+- cottage city
+- crellin
+- cresaptown
+- crisfield
+- crofton
+- croom
+- crownsville
+- cumberland
+- damascus
+- dames quarter
+- danville
+- dargan
+- darlington
+- darnestown
+- dawson
+- deal island
+- deale
+- deer park
+- delmar
+- denton
+- derwood
+- district heights
+- downsville
+- drum point
+- dundalk
+- dunkirk
+- east new market
+- east riverdale
+- easton
+- eckhart mines
+- eden
+- edesville
+- edgemere
+- edgemont
+- edgewater
+- edgewood
+- edmonston
+- eldersburg
+- elkridge
+- elkton
+- ellerslie
+- ellicott city
+- emmitsburg
+- essex
+- fairland
+- fairlee
+- fairmount
+- fairmount heights
+- fairplay
+- fairwood
+- fallston
+- federalsburg
+- ferndale
+- finzel
+- fishing creek
+- flintstone
+- forest glen
+- forest heights
+- forestville
+- fort meade
+- fort ritchie
+- fort washington
+- fountainhead orchard hills
+- four corners
+- franklin
+- frederick
+- frenchtown rumbly
+- friendly
+- friendship
+- friendship heights village
+- friendsville
+- frostburg
+- fruitland
+- fulton
+- funkstown
+- gaithersburg
+- galena
+- galestown
+- galesville
+- gambrills
+- gapland
+- garrett park
+- garretts mill
+- garrison
+- georgetown
+- germantown
+- gilmore
+- girdletree
+- glassmanor
+- glen burnie
+- glen echo
+- glenarden
+- glenmont
+- glenn dale
+- golden beach
+- goldsboro
+- gorman
+- grahamtown
+- grantsville
+- grasonville
+- greenbelt
+- greensboro
+- greensburg
+- hagerstown
+- halfway
+- hampstead
+- hampton
+- hancock
+- havre de grace
+- hebron
+- henderson
+- herald harbor
+- highfield cascade
+- highland
+- hillandale
+- hillcrest heights
+- hillsboro
+- hughesville
+- huntingtown
+- hurlock
+- hyattsville
+- ilchester
+- indian head
+- jarrettsville
+- jefferson
+- jennings
+- jessup
+- jesterville
+- joppatowne
+- jugtown
+- keedysville
+- kemp mill
+- kemps mill
+- kennedyville
+- kensington
+- kent narrows
+- kettering
+- kingstown
+- kingsville
+- kitzmiller
+- klondike
+- konterra
+- la plata
+- la vale
+- lake arbor
+- lake shore
+- landover
+- landover hills
+- langley park
+- lanham
+- lansdowne
+- largo
+- laurel
+- layhill
+- laytonsville
+- leisure world
+- leitersburg
+- leonardtown
+- lexington park
+- libertytown
+- linganore
+- linthicum
+- loch lynn heights
+- lochearn
+- lonaconing
+- long beach
+- lusby
+- lutherville
+- madison
+- manchester
+- mapleville
+- mardela springs
+- marlboro meadows
+- marlboro village
+- marlow heights
+- marlton
+- martin's additions village
+- marydel
+- maryland city
+- maugansville
+- mayo
+- mays chapel
+- mccoole
+- mechanicsville
+- melwood
+- mercersville
+- middle river
+- middletown
+- midland
+- midlothian
+- milford mill
+- millington
+- mitchellville
+- monrovia
+- montgomery village
+- morningside
+- moscow
+- mount aetna
+- mount airy
+- mount briar
+- mount lena
+- mount rainier
+- mount savage
+- mount vernon
+- mountain lake park
+- myersville
+- nanticoke
+- nanticoke acres
+- national harbor
+- naval academy
+- new carrollton
+- new market
+- new windsor
+- newark
+- nikep
+- north beach
+- north bethesda
+- north brentwood
+- north chevy chase village
+- north east
+- north kensington
+- north laurel
+- north potomac
+- oakland
+- ocean city
+- ocean pines
+- odenton
+- olney
+- overlea
+- owings
+- owings mills
+- oxford
+- oxon hill
+- paramount long meadow
+- parkville
+- parole
+- parsonsburg
+- pasadena
+- pecktonville
+- peppermill village
+- perry hall
+- perryman
+- perryville
+- pikesville
+- pinesburg
+- piney point
+- pittsville
+- pleasant grove
+- pleasant hills
+- pocomoke city
+- point of rocks
+- pomfret
+- pondsville
+- poolesville
+- port deposit
+- potomac
+- potomac heights
+- potomac park
+- powellville
+- preston
+- prince frederick
+- princess anne
+- pylesville
+- quantico
+- queen anne
+- queenland
+- queenstown
+- randallstown
+- rawlings
+- redland
+- reisterstown
+- ridgely
+- ringgold
+- rising sun
+- riva
+- riverdale park
+- riverside
+- riviera beach
+- robinwood
+- rock hall
+- rock point
+- rockville
+- rohrersville
+- rosaryville
+- rosedale
+- rosemont village
+- rossville
+- sabillasville
+- salisbury
+- san mar
+- sandy hook
+- savage
+- scaggsville
+- seabrook
+- seat pleasant
+- secretary
+- severn
+- severna park
+- shady side
+- shaft
+- sharpsburg
+- sharptown
+- silver hill
+- silver spring
+- smith island
+- smithsburg
+- snow hill
+- solomons
+- somerset
+- south kensington
+- south laurel
+- spencerville
+- spring ridge
+- springdale
+- st george island
+- st james
+- st leonard
+- st michaels
+- stevensville
+- sudlersville
+- suitland
+- summerfield
+- sykesville
+- takoma park
+- tall timbers
+- taneytown
+- taylors island
+- temple hills
+- templeville
+- thurmont
+- tilghman island
+- tilghmanton
+- timonium
+- tolchester
+- towson
+- trappe
+- travilah
+- trego rohrersville station
+- tyaskin
+- union bridge
+- university park
+- upper marlboro
+- urbana
+- vale summit
+- vienna
+- waldorf
+- walker mill
+- walkersville
+- washington grove
+- west laurel
+- west ocean city
+- west pocomoke
+- westernport
+- westminster
+- westphalia
+- whaleyville
+- wheaton
+- white marsh
+- white oak
+- willards
+- williamsport
+- williston
+- wilson conococheague
+- woodland
+- woodlawn
+- woodmore
+- woodsboro
+- worton
+- yarrowsburg
+- zihlman

@@ -1,0 +1,554 @@
+---
+- abilene
+- ada
+- admire
+- agra
+- albert
+- alden
+- allen
+- alma
+- almena
+- alta vista
+- altamont
+- alton
+- altoona
+- americus
+- andale
+- andover
+- anthony
+- arcadia
+- argonia
+- arkansas city
+- arlington
+- arma
+- ashland
+- assaria
+- atchison
+- atlanta
+- attica
+- atwood
+- auburn
+- augusta
+- axtell
+- baileyville
+- baldwin city
+- barnes
+- basehor
+- baxter springs
+- bazine
+- beattie
+- bel aire
+- belle plaine
+- belleville
+- beloit
+- belvue
+- bendena
+- bennington
+- bentley
+- benton
+- bern
+- beverly
+- bird city
+- bison
+- blue mound
+- blue rapids
+- bogue
+- bonner springs
+- brewster
+- bronson
+- brookville
+- bucklin
+- bucyrus
+- buffalo
+- buhler
+- burden
+- burdett
+- burlingame
+- burlington
+- burns
+- burr oak
+- burrton
+- bushton
+- caldwell
+- caney
+- canton
+- carbondale
+- cassoday
+- catharine
+- cawker city
+- cedar vale
+- centralia
+- chanute
+- chapman
+- chase
+- chautauqua
+- cheney
+- cherokee
+- cherryvale
+- chetopa
+- chicopee
+- cimarron
+- circleville
+- claflin
+- clay center
+- clearwater
+- clifton
+- clyde
+- coffeyville
+- colby
+- coldwater
+- collyer
+- colony
+- columbus
+- colwich
+- concordia
+- conway springs
+- copeland
+- corning
+- cottonwood falls
+- council grove
+- courtland
+- cuba
+- cullison
+- culver
+- cunningham
+- damar
+- de soto
+- dearing
+- deerfield
+- delia
+- delphos
+- denison
+- denton
+- derby
+- detroit
+- dexter
+- dighton
+- dodge city
+- dorrance
+- douglass
+- downs
+- durham
+- dwight
+- eastborough
+- easton
+- edgerton
+- edna
+- edwardsville
+- effingham
+- el dorado
+- elbing
+- elk city
+- elk falls
+- elkhart
+- ellinwood
+- ellis
+- ellsworth
+- elwood
+- emmett
+- emporia
+- ensign
+- enterprise
+- erie
+- eskridge
+- eudora
+- eureka
+- everest
+- fairview
+- fairway
+- fall river
+- florence
+- fontana
+- ford
+- fort dodge
+- fort riley
+- fort scott
+- fowler
+- frankfort
+- franklin
+- fredonia
+- frontenac
+- fulton
+- galena
+- galesburg
+- galva
+- garden city
+- garden plain
+- gardner
+- garfield
+- garnett
+- gas
+- gaylord
+- geneseo
+- geuda springs
+- girard
+- glasco
+- glen elder
+- goddard
+- goessel
+- goff
+- goodland
+- gorham
+- grainfield
+- grandview plaza
+- grantville
+- great bend
+- greeley
+- green
+- greenleaf
+- greensburg
+- grenola
+- gridley
+- grinnell
+- gypsum
+- haddam
+- halstead
+- hamilton
+- hanover
+- hanston
+- hardtner
+- harper
+- hartford
+- harveyville
+- havana
+- haven
+- havensville
+- haviland
+- hays
+- haysville
+- healy
+- hepler
+- herington
+- herndon
+- hesston
+- hiawatha
+- highland
+- hill city
+- hillsboro
+- hillsdale
+- hoisington
+- holcomb
+- holton
+- holyrood
+- home
+- hope
+- horton
+- howard
+- hoxie
+- hoyt
+- hudson
+- hugoton
+- humboldt
+- hutchinson
+- independence
+- ingalls
+- inman
+- iola
+- iuka
+- jamestown
+- jetmore
+- jewell
+- johnson city
+- junction city
+- kanopolis
+- kanorado
+- kansas city
+- kechi
+- kensington
+- kickapoo site 1
+- kickapoo tribal center
+- kincaid
+- kingman
+- kinsley
+- kiowa
+- kirwin
+- kismet
+- la crosse
+- la cygne
+- la harpe
+- lake quivira
+- lakin
+- lancaster
+- lane
+- lansing
+- larned
+- latham
+- lawrence
+- leavenworth
+- leawood
+- lebanon
+- lebo
+- lecompton
+- lehigh
+- lenexa
+- lenora
+- leon
+- leonardville
+- leoti
+- leroy
+- lewis
+- liberal
+- liberty
+- liebenthal
+- lincoln center
+- lincolnville
+- lindsborg
+- linn
+- linn valley
+- linwood
+- little river
+- logan
+- long island
+- longton
+- lorraine
+- louisburg
+- louisville
+- lowell
+- lucas
+- luray
+- lyndon
+- lyons
+- macksville
+- madison
+- maize
+- manhattan
+- mankato
+- manter
+- maple hill
+- marion
+- marquette
+- marysville
+- mayetta
+- mayfield
+- mcconnell afb
+- mccracken
+- mccune
+- mcdonald
+- mcfarland
+- mclouth
+- mcpherson
+- meade
+- medicine lodge
+- melvern
+- meriden
+- merriam
+- milford
+- milton
+- miltonvale
+- minneapolis
+- minneola
+- mission
+- mission hills
+- mission woods
+- moline
+- montezuma
+- moran
+- morganville
+- morland
+- morrill
+- morrowville
+- moscow
+- mound city
+- mound valley
+- moundridge
+- mount hope
+- mulberry
+- mullinville
+- mulvane
+- munden
+- munjor
+- muscotah
+- natoma
+- neodesha
+- neosho falls
+- neosho rapids
+- ness city
+- netawaka
+- new cambria
+- new strawn
+- newton
+- nickerson
+- norcatur
+- north newton
+- norton
+- nortonville
+- norwich
+- oaklawn sunview
+- oakley
+- oberlin
+- odin
+- offerle
+- ogden
+- olathe
+- olmitz
+- olpe
+- olsburg
+- onaga
+- osage city
+- osawatomie
+- osborne
+- oskaloosa
+- oswego
+- otis
+- ottawa
+- overbrook
+- overland park
+- oxford
+- ozawkie
+- palco
+- palmer
+- paola
+- park
+- park city
+- parker
+- parkerfield
+- parsons
+- partridge
+- pawnee rock
+- paxico
+- peabody
+- perry
+- peru
+- phillipsburg
+- piqua
+- pittsburg
+- plains
+- plainville
+- pleasanton
+- pomona
+- portis
+- potwin
+- prairie view
+- prairie village
+- pratt
+- prescott
+- preston
+- pretty prairie
+- princeton
+- protection
+- quenemo
+- quinter
+- ramona
+- randolph
+- ransom
+- rantoul
+- reading
+- redfield
+- republic
+- rexford
+- richmond
+- riley
+- riverton
+- robinson
+- roeland park
+- rolla
+- rosalia
+- rose hill
+- rossville
+- roxbury
+- rozel
+- rush center
+- russell
+- sabetha
+- salina
+- satanta
+- savonburg
+- sawyer
+- scammon
+- scandia
+- schoenchen
+- scott city
+- scranton
+- sedan
+- sedgwick
+- selden
+- seneca
+- severy
+- sharon
+- sharon springs
+- shawnee
+- silver lake
+- smith center
+- smolan
+- soldier
+- solomon
+- south haven
+- south hutchinson
+- spearville
+- spring hill
+- st francis
+- st george
+- st john
+- st marys
+- st paul
+- stafford
+- sterling
+- stockton
+- strong city
+- sublette
+- summerfield
+- sylvan grove
+- sylvia
+- syracuse
+- tampa
+- tescott
+- thayer
+- tipton
+- tonganoxie
+- topeka
+- toronto
+- towanda
+- treece
+- tribune
+- troy
+- turon
+- tyro
+- udall
+- ulysses
+- uniontown
+- utica
+- valley center
+- valley falls
+- vassar
+- vermillion
+- victoria
+- viola
+- wakarusa
+- wakeeney
+- wakefield
+- walnut
+- walton
+- wamego
+- washington
+- waterville
+- wathena
+- waverly
+- weir
+- welda
+- wellington
+- wellsville
+- weskan
+- west mineral
+- westmoreland
+- westphalia
+- westwood
+- westwood hills
+- wetmore
+- white city
+- white cloud
+- whitewater
+- whiting
+- wichita
+- williamsburg
+- wilroads gardens
+- wilsey
+- wilson
+- winchester
+- windom
+- winfield
+- winona
+- woodbine
+- woodston
+- wright
+- yates center
+- yoder

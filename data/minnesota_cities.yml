@@ -1,0 +1,805 @@
+---
+- ada
+- adams
+- adrian
+- afton
+- aitkin
+- akeley
+- albany
+- albert lea
+- alberta
+- albertville
+- alden
+- alexandria
+- alpha
+- altura
+- alvarado
+- amboy
+- andover
+- annandale
+- anoka
+- apple valley
+- appleton
+- arden hills
+- argyle
+- arlington
+- arnold
+- ashby
+- askov
+- atwater
+- audubon
+- aurora
+- austin
+- avoca
+- avon
+- babbitt
+- backus
+- badger
+- bagley
+- balaton
+- ball club
+- barnesville
+- barnum
+- barrett
+- battle lake
+- baudette
+- baxter
+- bayport
+- beardsley
+- beaver bay
+- beaver creek
+- becker
+- belgrade
+- belle plaine
+- bellechester
+- bellingham
+- beltrami
+- belview
+- bemidji
+- bena
+- benson
+- bertha
+- bethel
+- big falls
+- big lake
+- bigelow
+- bigfork
+- bingham lake
+- birchwood village
+- bird island
+- biscay
+- biwabik
+- blackduck
+- blaine
+- blomkest
+- blooming prairie
+- bloomington
+- blue earth
+- bluffton
+- bock
+- borup
+- bovey
+- bowlus
+- boyd
+- braham
+- brainerd
+- brandon
+- breckenridge
+- breezy point
+- brewster
+- bricelyn
+- brook park
+- brooklyn center
+- brooklyn park
+- brooks
+- brookston
+- brooten
+- browerville
+- browns valley
+- brownsdale
+- brownsville
+- brownton
+- bruno
+- buckman
+- buffalo
+- buffalo lake
+- buhl
+- burnsville
+- burtrum
+- butterfield
+- byron
+- caledonia
+- callaway
+- calumet
+- cambridge
+- campbell
+- canby
+- cannon falls
+- canton
+- carlos
+- carlton
+- carver
+- cass lake
+- center city
+- centerville
+- ceylon
+- champlin
+- chandler
+- chanhassen
+- chaska
+- chatfield
+- chickamaw beach
+- chisago city
+- chisholm
+- chokio
+- circle pines
+- clara city
+- claremont
+- clarissa
+- clarkfield
+- clarks grove
+- clear lake
+- clearbrook
+- clearwater
+- clements
+- cleveland
+- climax
+- clinton
+- clitherall
+- clontarf
+- cloquet
+- coates
+- cohasset
+- cokato
+- cold spring
+- coleraine
+- cologne
+- columbia heights
+- columbus
+- comfrey
+- conger
+- cook
+- coon rapids
+- corcoran
+- cosmos
+- cottage grove
+- cottonwood
+- courtland
+- cromwell
+- crookston
+- crosby
+- crosslake
+- crystal
+- currie
+- cuyuna
+- cyrus
+- dakota
+- dalton
+- danube
+- darfur
+- darwin
+- dassel
+- dawson
+- dayton
+- de graff
+- deephaven
+- deer creek
+- deer river
+- deerwood
+- delano
+- delavan
+- dellwood
+- dennison
+- dent
+- detroit lakes
+- dexter
+- dilworth
+- dodge center
+- donnelly
+- dover
+- duluth
+- dumont
+- dundas
+- dunnell
+- eagan
+- eagle bend
+- eagle lake
+- east bethel
+- east grand forks
+- east gull lake
+- easton
+- echo
+- eden prairie
+- eden valley
+- edgerton
+- edina
+- effie
+- eitzen
+- elba
+- elbow lake
+- elgin
+- elizabeth
+- elk river
+- elko new market
+- elkton
+- ellendale
+- ellsworth
+- elmdale
+- elmore
+- elrosa
+- ely
+- elysian
+- emily
+- emmons
+- erhard
+- erskine
+- esko
+- evansville
+- eveleth
+- excelsior
+- eyota
+- fairfax
+- fairhaven
+- fairmont
+- falcon heights
+- faribault
+- farmington
+- federal dam
+- felton
+- fergus falls
+- fertile
+- fifty lakes
+- finland
+- finlayson
+- fisher
+- flensburg
+- floodwood
+- foley
+- forada
+- forest lake
+- foreston
+- fosston
+- fountain
+- foxhome
+- franklin
+- frazee
+- freeborn
+- freeport
+- fridley
+- frontenac
+- frost
+- fulda
+- garden city
+- garfield
+- garrison
+- garvin
+- gary
+- gaylord
+- gem lake
+- geneva
+- georgetown
+- ghent
+- gibbon
+- gilbert
+- gilman
+- glencoe
+- glenville
+- glenwood
+- glyndon
+- golden valley
+- gonvick
+- good thunder
+- goodhue
+- goodridge
+- goodview
+- graceville
+- granada
+- grand marais
+- grand meadow
+- grand rapids
+- granite falls
+- grant
+- grasston
+- green isle
+- greenbush
+- greenfield
+- greenwald
+- greenwood
+- grey eagle
+- grove city
+- grygla
+- hackensack
+- hallock
+- halstad
+- ham lake
+- hamburg
+- hammond
+- hampton
+- hancock
+- hanley falls
+- hanover
+- hanska
+- harding
+- hardwick
+- harmony
+- harris
+- hartland
+- hastings
+- hawley
+- hayfield
+- hayward
+- hector
+- heidelberg
+- henderson
+- hendricks
+- hendrum
+- henning
+- herman
+- hermantown
+- heron lake
+- hewitt
+- hibbing
+- hill city
+- hills
+- hilltop
+- hinckley
+- hitterdal
+- hoffman
+- hokah
+- holdingford
+- holland
+- hollandale
+- homer
+- hopkins
+- houston
+- howard lake
+- hoyt lakes
+- hugo
+- hutchinson
+- independence
+- inger
+- international falls
+- inver grove heights
+- iona
+- ironton
+- isanti
+- isle
+- ivanhoe
+- jackson
+- janesville
+- jasper
+- jeffers
+- jenkins
+- jordan
+- kandiyohi
+- karlstad
+- kasota
+- kasson
+- keewatin
+- kelliher
+- kellogg
+- kennedy
+- kensington
+- kenyon
+- kerkhoven
+- kettle river
+- kiester
+- kilkenny
+- kimball
+- kingston
+- kinney
+- la crescent
+- la prairie
+- lafayette
+- lake benton
+- lake bronson
+- lake city
+- lake crystal
+- lake elmo
+- lake george
+- lake henry
+- lake lillian
+- lake park
+- lake shore
+- lake st croix beach
+- lake wilson
+- lakefield
+- lakeland
+- lakeland shores
+- lakeville
+- lamberton
+- lancaster
+- landfall
+- lanesboro
+- lansing
+- laporte
+- lastrup
+- lauderdale
+- le center
+- le roy
+- le sueur
+- leota
+- lester prairie
+- lewiston
+- lewisville
+- lexington
+- lilydale
+- lindstrom
+- lino lakes
+- lismore
+- litchfield
+- little canada
+- little falls
+- little rock
+- littlefork
+- long beach
+- long lake
+- long prairie
+- longville
+- lonsdale
+- loretto
+- lowry
+- lucan
+- lutsen
+- luverne
+- lyle
+- lynd
+- mabel
+- madelia
+- madison
+- madison lake
+- magnolia
+- mahnomen
+- mahtomedi
+- mahtowa
+- mankato
+- mantorville
+- maple grove
+- maple lake
+- maple plain
+- mapleton
+- mapleview
+- maplewood
+- marble
+- marietta
+- marine on st croix
+- marshall
+- martin lake
+- mayer
+- maynard
+- mazeppa
+- mcgregor
+- mcintosh
+- mckinley
+- meadowlands
+- medford
+- medicine lake
+- medina
+- meire grove
+- melrose
+- menahga
+- mendota
+- mendota heights
+- mentor
+- merrifield
+- middle river
+- miesville
+- milaca
+- milan
+- millerville
+- millville
+- milroy
+- miltona
+- minneapolis
+- minneiska
+- minneota
+- minnesota city
+- minnesota lake
+- minnetonka
+- minnetonka beach
+- minnetrista
+- montevideo
+- montgomery
+- monticello
+- montrose
+- moorhead
+- moose lake
+- mora
+- morgan
+- morris
+- morristown
+- morton
+- motley
+- mound
+- mounds view
+- mountain iron
+- mountain lake
+- murdock
+- nashwauk
+- naytahwaush
+- nelson
+- nerstrand
+- nett lake
+- nevis
+- new auburn
+- new brighton
+- new germany
+- new hope
+- new london
+- new munich
+- new prague
+- new richland
+- new trier
+- new ulm
+- new york mills
+- newfolden
+- newport
+- nicollet
+- nisswa
+- north branch
+- north mankato
+- north oaks
+- north st paul
+- northfield
+- northome
+- northrop
+- norwood young america
+- nowthen
+- oak grove
+- oak park heights
+- oakdale
+- oakport
+- odessa
+- odin
+- ogema
+- ogilvie
+- okabena
+- oklee
+- olivia
+- onamia
+- ormsby
+- orono
+- oronoco
+- orr
+- ortonville
+- osage
+- osakis
+- oslo
+- osseo
+- ostrander
+- otsego
+- ottertail
+- owatonna
+- palisade
+- park rapids
+- parkers prairie
+- paynesville
+- pease
+- pelican rapids
+- pemberton
+- pennock
+- pequot lakes
+- perham
+- peterson
+- pierz
+- pillager
+- pine city
+- pine island
+- pine point
+- pine river
+- pine springs
+- pipestone
+- plainview
+- plato
+- plummer
+- plymouth
+- ponemah
+- porter
+- preston
+- princeton
+- prinsburg
+- prior lake
+- proctor
+- quamba
+- racine
+- ramsey
+- randall
+- randolph
+- ranier
+- raymond
+- red lake
+- red lake falls
+- red wing
+- redby
+- redwood falls
+- remer
+- renville
+- rice
+- rice lake
+- richfield
+- richmond
+- riverland
+- riverton
+- robbinsdale
+- rochester
+- rock creek
+- rockford
+- rockville
+- rogers
+- rollingstone
+- roosevelt
+- roscoe
+- rose creek
+- roseau
+- rosemount
+- roseville
+- rothsay
+- round lake
+- royalton
+- rush city
+- rushford
+- rushford village
+- rushmore
+- russell
+- ruthton
+- rutledge
+- sabin
+- sacred heart
+- sanborn
+- sandstone
+- sartell
+- sauk centre
+- sauk rapids
+- savage
+- scandia
+- scanlon
+- searles
+- sebeka
+- shafer
+- shakopee
+- shelly
+- sherburn
+- shevlin
+- shoreview
+- shorewood
+- silver bay
+- silver creek
+- silver lake
+- skyline
+- slayton
+- sleepy eye
+- sobieski
+- soudan
+- south haven
+- south st paul
+- spicer
+- spring grove
+- spring lake park
+- spring park
+- spring valley
+- springfield
+- squaw lake
+- st anthony
+- st augusta
+- st bonifacius
+- st charles
+- st clair
+- st cloud
+- st francis
+- st hilaire
+- st james
+- st joseph
+- st leo
+- st louis park
+- st martin
+- st marys point
+- st michael
+- st paul
+- st paul park
+- st peter
+- st stephen
+- stacy
+- stanchfield
+- staples
+- starbuck
+- steen
+- stephen
+- stewart
+- stewartville
+- stillwater
+- stockton
+- storden
+- sturgeon lake
+- sunburg
+- sunfish lake
+- swanville
+- taconite
+- taunton
+- taylors falls
+- tenstrike
+- the lakes
+- thief river falls
+- thomson
+- tonka bay
+- tower
+- tracy
+- trimont
+- truman
+- twin lakes
+- twin valley
+- two harbors
+- tyler
+- ulen
+- underwood
+- upsala
+- utica
+- vadnais heights
+- vergas
+- vermillion
+- verndale
+- vernon center
+- vesta
+- victoria
+- viking
+- villard
+- vineland
+- virginia
+- wabasha
+- wabasso
+- waconia
+- wadena
+- wahkon
+- waite park
+- waldorf
+- walker
+- walnut grove
+- waltham
+- wanamingo
+- warba
+- warren
+- warroad
+- warsaw
+- waseca
+- watertown
+- waterville
+- watkins
+- watson
+- waubun
+- waverly
+- wayzata
+- welcome
+- wells
+- wendell
+- west concord
+- west st paul
+- west union
+- westbrook
+- wheaton
+- white bear lake
+- white earth
+- willernie
+- williams
+- willmar
+- willow river
+- wilmont
+- wilton
+- windom
+- winger
+- winnebago
+- winona
+- winsted
+- winthrop
+- winton
+- wolverton
+- wood lake
+- woodbury
+- woodland
+- woodstock
+- worthington
+- wrenshall
+- wright
+- wykoff
+- wyoming
+- zimmerman
+- zumbro falls
+- zumbrota

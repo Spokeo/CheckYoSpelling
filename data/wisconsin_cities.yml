@@ -1,0 +1,748 @@
+---
+- abbotsford
+- abrams
+- adams
+- adell village
+- albany village
+- algoma
+- allenton
+- allouez village
+- alma
+- alma center village
+- almena village
+- almond village
+- altoona
+- amberg
+- amery
+- amherst junction village
+- amherst village
+- aniwa village
+- antigo
+- appleton
+- arcadia
+- arena village
+- argonne
+- argyle village
+- arkansaw
+- arkdale
+- arlington village
+- arpin village
+- ashippun
+- ashland
+- ashwaubenon village
+- athens village
+- auburndale village
+- augusta
+- avoca village
+- babcock
+- bagley village
+- baileys harbor
+- baldwin village
+- balsam lake village
+- bancroft
+- bangor village
+- baraboo
+- barneveld village
+- barron
+- barronett
+- bay city village
+- bayfield
+- bayside village
+- bear creek village
+- beaver dam
+- belgium village
+- bell center village
+- belleville village
+- bellevue village
+- belmont village
+- beloit
+- benton village
+- berlin
+- big bend village
+- birch hill
+- birchwood village
+- birnamwood village
+- biron village
+- black creek village
+- black earth village
+- black river falls
+- blair
+- blanchardville village
+- bloomer
+- bloomington village
+- blue mounds village
+- blue river village
+- bluffview
+- boaz village
+- bohners lake
+- bonduel village
+- boscobel
+- boulder junction
+- bowler village
+- boyceville village
+- boyd village
+- brandon village
+- brice prairie
+- brillion
+- bristol village
+- brodhead
+- brokaw village
+- brookfield
+- brooklyn village
+- brown deer village
+- browns lake
+- brownsville village
+- browntown village
+- bruce village
+- brule
+- buffalo city
+- burlington
+- burnett
+- butler village
+- butte des morts
+- butternut village
+- cable
+- cadott village
+- caledonia village
+- cambria village
+- cambridge village
+- cameron village
+- camp douglas village
+- camp lake
+- campbellsport village
+- caroline
+- cascade village
+- casco village
+- cashton village
+- cassville village
+- cataract
+- catawba village
+- cazenovia village
+- cecil village
+- cedar grove village
+- cedarburg
+- centuria village
+- chain o' lakes
+- chaseburg village
+- chelsea
+- chenequa village
+- chetek
+- chief lake
+- chili
+- chilton
+- chippewa falls
+- clayton village
+- clear lake village
+- cleveland village
+- clinton village
+- clintonville
+- clyman village
+- cobb village
+- cochrane village
+- colby
+- coleman village
+- colfax village
+- collins
+- coloma village
+- columbus
+- combined locks village
+- como
+- coon valley village
+- cornell
+- cottage grove village
+- crandon
+- crivitz village
+- cross plains village
+- cuba city
+- cudahy
+- cumberland
+- curtiss village
+- dale
+- dallas village
+- dalton
+- danbury
+- dane village
+- darien village
+- darlington
+- de pere
+- de soto village
+- deer park village
+- deerfield village
+- deforest village
+- delafield
+- delavan
+- delavan lake
+- delwood
+- denmark village
+- diamond bluff
+- dickeyville village
+- dodge
+- dodgeville
+- dorchester village
+- dousman village
+- downing village
+- downsville
+- doylestown village
+- dresser village
+- drummond
+- durand
+- dyckesville
+- eagle lake
+- eagle river
+- eagle village
+- east troy village
+- eastman village
+- eau claire
+- eden village
+- edgar village
+- edgerton
+- edmund
+- egg harbor village
+- eland village
+- elcho
+- elderon village
+- eleva village
+- elk mound village
+- elkhart lake village
+- elkhorn
+- ellison bay
+- ellsworth village
+- elm grove village
+- elmwood park village
+- elmwood village
+- elroy
+- embarrass village
+- emerald
+- endeavor village
+- ephraim village
+- ettrick village
+- eureka
+- evansville
+- exeland village
+- fairchild village
+- fairwater village
+- fall creek village
+- fall river village
+- fennimore
+- fenwood village
+- ferryville village
+- fitchburg
+- florence
+- fond du lac
+- fontana on geneva lake village
+- footville village
+- forest junction
+- forestville village
+- fort atkinson
+- fountain city
+- fox lake
+- fox point village
+- francis creek village
+- franklin
+- franks field
+- frederic village
+- fredonia village
+- fremont village
+- french island
+- friendship village
+- friesland village
+- galesville
+- gays mills village
+- genoa city village
+- genoa village
+- germantown village
+- gibbsville
+- gillett
+- gilman village
+- glenbeulah village
+- glendale
+- glenwood city
+- glidden
+- goodman
+- gordon
+- gotham
+- grafton village
+- grand marsh
+- grand view
+- granton village
+- grantsburg village
+- gratiot village
+- green bay
+- green lake
+- green valley
+- greenbush
+- greendale village
+- greenfield
+- greenleaf
+- greenwood
+- gresham village
+- hager city
+- hales corners village
+- hammond village
+- hancock village
+- hanover
+- hartford
+- hartland village
+- hatfield
+- hatley village
+- haugen village
+- hawkins village
+- hayward
+- hazel green village
+- hebron
+- helenville
+- herbster
+- hewitt village
+- highland village
+- hilbert village
+- hillsboro
+- hingham
+- hixton village
+- hobart village
+- holcombe
+- hollandale village
+- holmen village
+- horicon
+- hortonville village
+- houlton
+- howard village
+- howards grove village
+- hudson
+- humbird
+- hurley
+- hustisford village
+- hustler village
+- independence
+- iola village
+- iron belt
+- iron ridge village
+- iron river
+- ironton village
+- ixonia
+- jackson village
+- janesville
+- jefferson
+- jim falls
+- johnson creek village
+- juda
+- junction city village
+- juneau
+- kaukauna
+- kekoskee village
+- kellnersville village
+- kendall village
+- kennan village
+- kenosha
+- keshena
+- kewaskum village
+- kewaunee
+- kiel
+- kieler
+- kimberly village
+- king
+- kingston village
+- knapp village
+- knowlton
+- kohler village
+- krakow
+- kronenwetter village
+- la crosse
+- la farge village
+- la valle village
+- lac du flambeau
+- lac la belle village
+- ladysmith
+- lake arrowhead
+- lake camelot
+- lake delton village
+- lake geneva
+- lake hallie village
+- lake ivanhoe
+- lake koshkonong
+- lake lorraine
+- lake mills
+- lake nebagamon village
+- lake ripley
+- lake shangrila
+- lake sherwood
+- lake tomahawk
+- lake wazeecha
+- lake wisconsin
+- lake wissota
+- lakewood
+- lancaster
+- lannon village
+- laona
+- lauderdale lakes
+- lebanon
+- legend lake
+- lena village
+- lewis
+- lily lake
+- lime ridge village
+- linden village
+- little chute village
+- little round lake
+- little sturgeon
+- livingston village
+- lodi
+- loganville village
+- lohrville village
+- lomira village
+- lone rock village
+- lowell village
+- loyal
+- lublin village
+- luck village
+- luxemburg village
+- lyndon station village
+- lynxville village
+- madison
+- maiden rock village
+- manawa
+- manitowoc
+- maple bluff village
+- marathon city village
+- marengo
+- maribel village
+- marinette
+- marion
+- markesan
+- marquette village
+- marshall village
+- marshfield
+- mattoon village
+- mauston
+- mayville
+- mazomanie village
+- mcfarland village
+- medford
+- mellen
+- melrose village
+- melvina village
+- menasha
+- menomonee falls village
+- menomonie
+- mequon
+- mercer
+- merrill
+- merrillan village
+- merrimac village
+- merton village
+- middle village
+- middleton
+- milladore village
+- millston
+- milltown village
+- milton
+- milwaukee
+- mineral point
+- minocqua
+- minong village
+- mishicot village
+- mole lake
+- mondovi
+- monona
+- monroe
+- montello
+- montfort village
+- monticello village
+- montreal
+- mosinee
+- mount calvary village
+- mount hope village
+- mount horeb village
+- mount pleasant village
+- mount sterling village
+- mountain
+- mukwonago village
+- muscoda village
+- muskego
+- nashotah village
+- navarino
+- necedah village
+- neenah
+- neillsville
+- nekoosa
+- nelson village
+- nelsonville village
+- neopit
+- neosho village
+- neshkoro village
+- new auburn village
+- new berlin
+- new glarus village
+- new holstein
+- new lisbon
+- new london
+- new odanah
+- new post
+- new richmond
+- newburg village
+- niagara
+- nichols village
+- north bay village
+- north fond du lac village
+- north freedom village
+- north hudson village
+- north prairie village
+- northport
+- norwalk village
+- oak creek
+- oakdale village
+- oakfield village
+- oconomowoc
+- oconomowoc lake village
+- oconto
+- oconto falls
+- ogdensburg village
+- ogema
+- okauchee lake
+- oliver village
+- omro
+- onalaska
+- ontario village
+- oostburg village
+- oregon village
+- orfordville village
+- osceola village
+- oshkosh
+- osseo
+- owen
+- oxford village
+- packwaukee
+- paddock lake village
+- palmyra village
+- pardeeville village
+- park falls
+- park ridge village
+- patch grove village
+- pell lake
+- pella
+- pembine
+- pence
+- pepin village
+- peshtigo
+- pewaukee
+- pewaukee village
+- phillips
+- pigeon falls village
+- pine river
+- pittsville
+- plain village
+- plainfield village
+- platteville
+- pleasant prairie village
+- plover village
+- plum city village
+- plymouth
+- polonia
+- poplar village
+- port edwards village
+- port washington
+- port wing
+- portage
+- post lake
+- potosi village
+- potter lake
+- potter village
+- pound village
+- powers lake
+- poy sippi
+- poynette village
+- prairie du chien
+- prairie du sac village
+- prairie farm village
+- prentice village
+- prescott
+- princeton
+- pulaski village
+- pulcifer
+- racine
+- radisson village
+- randolph village
+- random lake village
+- readstown village
+- redgranite village
+- reedsburg
+- reedsville village
+- reeseville village
+- reserve
+- rewey village
+- rhinelander
+- rib lake village
+- rib mountain
+- rice lake
+- richfield village
+- richland center
+- ridgeland village
+- ridgeway village
+- rio village
+- ripon
+- river falls
+- river hills village
+- roberts village
+- rochester village
+- rock springs village
+- rockdale village
+- rockland village
+- rome
+- rosendale village
+- rosholt village
+- rothschild village
+- rudolph village
+- sandy hook
+- sauk city village
+- saukville village
+- sayner
+- scandinavia village
+- schofield
+- sextonville
+- seymour
+- sharon village
+- shawano
+- sheboygan
+- sheboygan falls
+- sheldon village
+- shell lake
+- sherwood village
+- shiocton village
+- shorewood hills village
+- shorewood village
+- shullsburg
+- silver lake village
+- siren village
+- sister bay village
+- slinger village
+- sobieski
+- soldiers grove village
+- solon springs village
+- somerset village
+- south milwaukee
+- south wayne village
+- sparta
+- spencer village
+- spooner
+- spring green village
+- spring valley village
+- springfield
+- st cloud village
+- st croix falls
+- st francis
+- st joseph
+- st nazianz village
+- st peter
+- stanley
+- star prairie village
+- stetsonville village
+- steuben village
+- stevens point
+- stockbridge village
+- stoddard village
+- stone lake
+- stoughton
+- stratford village
+- strum village
+- sturgeon bay
+- sturtevant village
+- suamico village
+- sullivan village
+- summit lake
+- sun prairie
+- superior
+- superior village
+- suring village
+- sussex village
+- tainter lake
+- taycheedah
+- taylor village
+- tennyson village
+- theresa village
+- thiensville village
+- thorp
+- three lakes
+- tichigan
+- tigerton village
+- tomah
+- tomahawk
+- tony village
+- townsend
+- trego
+- trempealeau village
+- tunnel city
+- turtle lake
+- turtle lake village
+- tustin
+- twin lakes village
+- two rivers
+- union center village
+- union grove village
+- unity village
+- valders village
+- van dyne
+- verona
+- vesper village
+- viola village
+- viroqua
+- wabeno
+- waldo village
+- wales village
+- walworth village
+- warrens village
+- washburn
+- waterford village
+- waterloo
+- watertown
+- waubeka
+- waukau
+- waukesha
+- waunakee village
+- waupaca
+- waupun
+- wausau
+- wausaukee village
+- wautoma
+- wauwatosa
+- wauzeka village
+- webster village
+- west allis
+- west baraboo village
+- west bend
+- west milwaukee village
+- west salem village
+- westboro
+- westby
+- westfield village
+- weston village
+- weyauwega
+- weyerhaeuser village
+- wheeler village
+- white lake village
+- whitefish bay village
+- whitehall
+- whitelaw village
+- whitewater
+- whiting village
+- whittlesey
+- wild rose village
+- williams bay village
+- wilmot
+- wilson village
+- wilton village
+- winchester
+- wind lake
+- wind point village
+- windsor
+- winneconne village
+- winter village
+- wisconsin dells
+- wisconsin rapids
+- withee village
+- wittenberg village
+- wonewoc village
+- woodman village
+- woodruff
+- woodville village
+- wrightstown village
+- wyeville village
+- wyocena village

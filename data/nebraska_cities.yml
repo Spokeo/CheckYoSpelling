@@ -1,0 +1,452 @@
+---
+- adams village
+- ainsworth
+- albion
+- alda village
+- alexandria village
+- allen village
+- alliance
+- alma
+- alvo village
+- amherst village
+- anselmo village
+- ansley village
+- arapahoe
+- arcadia village
+- arlington village
+- arnold village
+- arthur village
+- ashland
+- ashton village
+- aten
+- atkinson
+- atlanta village
+- auburn
+- aurora
+- avoca village
+- axtell village
+- bancroft village
+- barneston village
+- bartlett village
+- bartley village
+- bassett
+- battle creek
+- bayard
+- beatrice
+- beaver city
+- beaver crossing village
+- bee village
+- beemer village
+- belden village
+- belgrade village
+- bellevue
+- bellwood village
+- belmar
+- benedict village
+- benkelman
+- bennet village
+- bennington
+- bertrand village
+- big springs village
+- bladen village
+- blair
+- bloomfield
+- bloomington village
+- blue hill
+- blue springs
+- bow valley
+- boys town village
+- bradshaw village
+- brady village
+- brainard village
+- bridgeport
+- broadwater village
+- brock village
+- broken bow
+- brownville village
+- brule village
+- bruning village
+- brunswick village
+- burwell
+- bushnell village
+- butte village
+- cairo village
+- callaway village
+- cambridge
+- campbell village
+- carroll village
+- cedar bluffs village
+- cedar creek village
+- cedar rapids village
+- central city
+- ceresco village
+- chadron
+- chalco
+- chambers village
+- champion
+- chapman village
+- chappell
+- chester village
+- clarks village
+- clarkson
+- clatonia village
+- clay center
+- clearwater village
+- cody village
+- coleridge village
+- colon village
+- columbus
+- concord village
+- cook village
+- cordova village
+- cortland village
+- cozad
+- craig village
+- crawford
+- creighton
+- creston village
+- crete
+- crofton
+- culbertson village
+- curtis
+- dakota city
+- dalton village
+- danbury village
+- dannebrog village
+- davenport village
+- davey village
+- david city
+- dawson village
+- daykin village
+- de witt village
+- decatur village
+- denton village
+- deshler
+- diller village
+- dix village
+- dodge village
+- doniphan village
+- dorchester village
+- douglas village
+- du bois village
+- dunbar village
+- duncan village
+- dunning village
+- dwight village
+- eagle village
+- edgar
+- edison village
+- elba village
+- elgin
+- elm creek village
+- elmwood village
+- elsie village
+- elwood village
+- emerson village
+- endicott village
+- eustis village
+- ewing village
+- exeter village
+- fairbury
+- fairfield
+- fairmont village
+- falls city
+- farnam village
+- farwell village
+- filley village
+- firth village
+- fordyce village
+- fort calhoun
+- franklin
+- fremont
+- friend
+- fullerton
+- funk village
+- garland village
+- geneva
+- genoa
+- gering
+- gibbon
+- giltner village
+- glenvil village
+- glenwood
+- goehner village
+- gordon
+- gothenburg
+- grafton village
+- grand island
+- grant
+- greeley center village
+- greenwood village
+- gresham village
+- gretna
+- guide rock village
+- gurley village
+- hadar village
+- haigler village
+- hallam village
+- hampton village
+- hardy village
+- harrisburg
+- harrison village
+- hartington
+- harvard
+- hastings
+- hay springs village
+- hayes center village
+- hebron
+- hemingford village
+- henderson
+- henry village
+- herman village
+- hershey village
+- hickman
+- hildreth village
+- holbrook village
+- holdrege
+- holstein village
+- homer village
+- hooper
+- hordville village
+- hoskins village
+- howard city village
+- howells village
+- hubbard village
+- humboldt
+- humphrey
+- hyannis village
+- imperial
+- inavale
+- indianola
+- inglewood village
+- inman village
+- ithaca village
+- jackson village
+- jansen village
+- johnson village
+- juniata village
+- kearney
+- kenesaw village
+- kennard village
+- kimball
+- king lake
+- la platte
+- la vista
+- lakeview
+- laurel
+- lawrence village
+- leigh village
+- leshara village
+- lewellen village
+- lexington
+- lincoln
+- lindsay village
+- litchfield village
+- lodgepole village
+- long pine
+- loomis village
+- louisville
+- loup city
+- lyman village
+- lynch village
+- lyons
+- macy
+- madison
+- madrid village
+- malcolm village
+- malmo village
+- manley village
+- marquette village
+- mason city village
+- maxwell village
+- maywood village
+- mccook
+- mccool junction village
+- mcgrew village
+- mead village
+- meadow grove village
+- melbeta village
+- memphis village
+- merna village
+- merriman village
+- milford
+- miller village
+- milligan village
+- minatare
+- minden
+- mitchell
+- monroe village
+- morrill village
+- morse bluff village
+- mullen village
+- murdock village
+- murray village
+- naponee village
+- nebraska city
+- nehawka village
+- neligh
+- nelson
+- nemaha village
+- newcastle village
+- newman grove
+- nickerson village
+- niobrara village
+- norfolk
+- north bend
+- north loup village
+- north platte
+- o'neill
+- oakdale village
+- oakland
+- oconto village
+- octavia village
+- odell village
+- odessa
+- offutt afb
+- ogallala
+- ohiowa village
+- omaha
+- orchard village
+- ord
+- orleans village
+- osceola
+- oshkosh
+- osmond
+- otoe village
+- overland
+- overton village
+- oxford village
+- page village
+- palisade village
+- palmer village
+- palmyra village
+- panama village
+- papillion
+- pawnee city
+- paxton village
+- pender village
+- peru
+- petersburg village
+- phillips village
+- pickrell village
+- pierce
+- pilger village
+- plainview
+- platte center village
+- plattsmouth
+- pleasant dale village
+- pleasanton village
+- plymouth village
+- polk village
+- ponca
+- potter village
+- prague village
+- ralston
+- randolph
+- ravenna
+- raymond village
+- red cloud
+- republican city village
+- rising city village
+- riverdale village
+- roca village
+- rockville village
+- rosalie village
+- roseland village
+- rulo village
+- rushville
+- ruskin village
+- salem village
+- santee village
+- sargent
+- schuyler
+- scotia village
+- scottsbluff
+- scribner
+- seward
+- shelby village
+- shelton village
+- shickley village
+- shubert village
+- sidney
+- silver creek village
+- snyder village
+- south sioux city
+- spalding village
+- spencer village
+- sprague village
+- springfield
+- springview village
+- st edward
+- st libory
+- st paul
+- stamford village
+- stanton
+- staplehurst village
+- stapleton village
+- stella village
+- sterling village
+- stratton village
+- stromsburg
+- stuart village
+- sumner village
+- superior
+- sutherland village
+- sutton
+- syracuse
+- table rock village
+- talmage village
+- taylor village
+- tecumseh
+- tekamah
+- terrytown
+- thedford village
+- thurston village
+- tilden
+- tobias village
+- trenton village
+- trumbull village
+- tryon
+- uehling village
+- ulysses village
+- unadilla village
+- union village
+- upland village
+- utica village
+- valentine
+- valley
+- valparaiso village
+- venango village
+- verdigre village
+- verdon village
+- waco village
+- wahoo
+- wakefield
+- wallace village
+- walthill village
+- walton
+- washington village
+- waterloo village
+- wauneta village
+- wausa village
+- waverly
+- wayne
+- weeping water
+- west point
+- western village
+- weston village
+- wilber
+- wilcox village
+- winnebago village
+- winside village
+- winslow village
+- wisner
+- wolbach village
+- wood river
+- woodland hills
+- woodland park
+- wymore
+- wynot village
+- yankee hill
+- york
+- yutan

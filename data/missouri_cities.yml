@@ -1,0 +1,887 @@
+---
+- adrian
+- advance
+- affton
+- agency village
+- airport drive village
+- alba
+- albany
+- alexandria
+- allenville village
+- alma
+- altamont village
+- altenburg
+- alton
+- amazonia village
+- amoret
+- amsterdam
+- anderson
+- annapolis
+- anniston
+- appleton city
+- arbyrd
+- arcadia
+- archie
+- argyle
+- armstrong
+- arnold
+- asbury
+- ash grove
+- ashland
+- atlanta
+- augusta
+- aullville village
+- aurora
+- auxvasse
+- ava
+- avilla
+- avondale
+- bakersfield village
+- ballwin
+- baring
+- barnard
+- barnett
+- barnhart
+- bates city
+- battlefield
+- bel nor village
+- bel ridge village
+- bell city
+- bella villa
+- belle
+- bellefontaine neighbors
+- bellerive village
+- bellflower
+- belton
+- bennett springs
+- benton
+- benton city village
+- berger
+- berkeley
+- bernie
+- bertrand
+- bethany
+- bethel village
+- beverly hills
+- bevier
+- big lake village
+- big spring
+- billings
+- birch tree
+- birmingham village
+- bismarck
+- black jack
+- blackburn
+- blackwater
+- bland
+- blodgett village
+- bloomfield
+- bloomsdale
+- blue eye
+- blue springs
+- blythedale village
+- bogard
+- bolckow
+- bolivar
+- bonne terre
+- boonville
+- bosworth
+- bourbon
+- bowling green
+- bragg city
+- brandsville
+- branson
+- branson west
+- brashear
+- braymer
+- breckenridge
+- breckenridge hills
+- brentwood
+- brewer
+- bridgeton
+- bronaugh
+- brookfield
+- brooklyn heights
+- browning
+- brownington
+- brunswick
+- bucklin
+- buckner
+- buffalo
+- bull creek village
+- bunceton
+- bunker
+- burlington junction
+- butler
+- butterfield village
+- byrnes mill
+- cabool
+- cainsville
+- cairo village
+- caledonia village
+- calhoun
+- california
+- callao
+- calverton park village
+- camden
+- camden point
+- camdenton
+- cameron
+- campbell
+- canalou
+- canton
+- cape girardeau
+- cardwell
+- carl junction
+- carrollton
+- carterville
+- carthage
+- caruthersville
+- carytown
+- cassville
+- castle point
+- cedar hill
+- cedar hill lakes village
+- center
+- centertown
+- centerview
+- centerville
+- centralia
+- chaffee
+- chain o lakes village
+- chamois
+- charlack
+- charleston
+- cherokee pass
+- chesterfield
+- chilhowee
+- chillicothe
+- chula
+- clarence
+- clark
+- clarksburg
+- clarksdale
+- clarkson valley
+- clarksville
+- clarkton
+- claycomo village
+- clayton
+- clearmont
+- cleveland
+- clever
+- clifton hill
+- climax springs village
+- clinton
+- cobalt village
+- coffey
+- cole camp
+- collins village
+- columbia
+- conception
+- conception junction
+- concord
+- concordia
+- conway
+- cool valley
+- cooter
+- corder
+- cosby village
+- cottleville
+- country club hills
+- country club village
+- cowgill
+- craig
+- crane
+- creighton
+- crestwood
+- creve coeur
+- crocker
+- cross timbers
+- crystal city
+- crystal lake park
+- crystal lakes
+- cuba
+- curryville
+- dadeville village
+- dardenne prairie
+- darlington village
+- dawn
+- de kalb
+- de soto
+- de witt
+- dearborn
+- deepwater
+- defiance
+- dellwood
+- delta
+- des arc village
+- des peres
+- desloge
+- dexter
+- diamond
+- diehlstadt village
+- diggins village
+- dixon
+- doe run
+- doniphan
+- doolittle
+- dover
+- downing
+- drexel
+- dudley
+- duenweg
+- duquesne village
+- eagle rock
+- eagleville
+- east lynne
+- east prairie
+- easton
+- edgar springs
+- edgerton
+- edina
+- edmundson
+- el dorado springs
+- eldon
+- ellington
+- ellisville
+- ellsinore
+- elmo
+- elsberry
+- emerald beach village
+- eminence
+- emma
+- eolia village
+- essex
+- eureka
+- everton
+- ewing
+- excelsior estates village
+- excelsior springs
+- exeter
+- fair grove
+- fair play
+- fairdealing
+- fairfax
+- fairview
+- farber
+- farley village
+- farmington
+- fayette
+- fenton
+- ferguson
+- ferrelview village
+- festus
+- fidelity
+- fillmore
+- fisk
+- fleming
+- flemington village
+- flint hill
+- flordell hills
+- florissant
+- foley
+- fordland
+- forest city
+- foristell
+- forsyth
+- fort leonard wood
+- foster village
+- fountain n' lakes village
+- frankclay
+- frankford
+- fredericktown
+- freeburg village
+- freeman
+- freistatt village
+- fremont
+- fremont hills
+- frohna
+- frontenac
+- fulton
+- gainesville
+- galena
+- gallatin
+- galt
+- garden city
+- gasconade
+- gerald
+- gibbs village
+- gideon
+- gilliam
+- gilman city
+- gladstone
+- glasgow
+- glasgow village
+- glen echo park village
+- glenaire
+- glendale
+- glenwood village
+- golden
+- golden city
+- goodman
+- gordonville village
+- gower
+- graham
+- grain valley
+- granby
+- grand falls plaza
+- grandin
+- grandview
+- grant city
+- grantwood village
+- gravois mills
+- gray summit
+- grayhawk
+- grayridge
+- green city
+- green park
+- green ridge
+- greencastle
+- greendale
+- greenfield
+- greentop
+- greenville
+- greenwood
+- gunn city village
+- hale
+- halfway village
+- hallsville
+- halltown village
+- hamilton
+- hanley hills village
+- hannibal
+- hardin
+- harrisburg
+- harrisonville
+- hartsburg
+- hartville
+- harviell
+- hawk point
+- hayti
+- hayti heights
+- hayward
+- haywood city village
+- hazelwood
+- henrietta
+- herculaneum
+- hermann
+- hermitage
+- higbee
+- higginsville
+- high hill
+- high ridge
+- highlandville
+- hillsboro
+- hillsdale village
+- holcomb
+- holden
+- holland
+- holliday village
+- hollister
+- holt
+- holts summit
+- homestead village
+- homestown
+- hopkins
+- horine
+- hornersville
+- houston
+- houston lake
+- houstonia
+- howardville
+- hughesville village
+- humansville
+- hume
+- humphreys village
+- hunnewell
+- hunter
+- huntleigh
+- huntsville
+- hurdland
+- hurley
+- iberia
+- imperial
+- independence
+- indian point village
+- innsbrook village
+- iron mountain lake
+- irondale
+- ironton
+- jackson
+- jacksonville village
+- jameson
+- jamesport
+- jamestown
+- jasper
+- jefferson city
+- jennings
+- jerico springs village
+- jonesburg
+- joplin
+- josephville village
+- junction city village
+- kahoka
+- kansas city
+- kearney
+- kelso village
+- kennett
+- keytesville
+- kidder
+- kimberling city
+- kimmswick
+- king city
+- kingdom city village
+- kingston
+- kingsville
+- kinloch
+- kirbyville village
+- kirksville
+- kirkwood
+- kissee mills
+- knob noster
+- knox city
+- koshkonong
+- la belle
+- la grange
+- la monte
+- la plata
+- la russell
+- labarque creek
+- laclede
+- laddonia
+- ladue
+- lake annette
+- lake lafayette
+- lake lotawana
+- lake mykee town village
+- lake ozark
+- lake st louis
+- lake tapawingo
+- lake tekakwitha village
+- lake viking
+- lake waukomis
+- lake winnebago
+- lakeshire
+- lamar
+- lamar heights
+- lanagan
+- lancaster
+- laredo
+- lathrop
+- laurie
+- lawson
+- leadington
+- leadwood
+- leasburg village
+- leawood village
+- lebanon
+- lee's summit
+- leeton
+- leisure lake
+- lemay
+- leslie village
+- lewis and clark village
+- lewistown
+- lexington
+- liberal
+- liberty
+- licking
+- lilbourn
+- lincoln
+- linn
+- linn creek
+- linneus
+- loch lloyd village
+- lockwood
+- lohman
+- loma linda
+- lone jack
+- longtown
+- louisburg village
+- louisiana
+- lowry city
+- ludlow
+- mackenzie village
+- macks creek
+- macon
+- madison
+- maitland
+- malden
+- malta bend
+- manchester
+- mansfield
+- maplewood
+- marble hill
+- marceline
+- marionville
+- marlborough village
+- marquand
+- marshall
+- marshfield
+- marston
+- marthasville
+- martinsburg
+- maryland heights
+- maryville
+- matthews
+- maysville
+- mayview
+- mccord bend village
+- meadville
+- mehlville
+- memphis
+- mendon
+- mercer
+- merriam woods village
+- meta
+- mexico
+- miami
+- middletown
+- milan
+- mill spring village
+- miller
+- mindenmines
+- mine la motte
+- miner
+- mineral point
+- miramiguoa park village
+- missouri city
+- moberly
+- mokane
+- moline acres
+- monett
+- monroe city
+- montgomery city
+- montrose
+- morehouse
+- morley
+- morrison
+- morrisville
+- mosby
+- moscow mills
+- mound city
+- moundville
+- mount vernon
+- mountain grove
+- mountain view
+- murphy
+- napoleon
+- naylor
+- neck city
+- neelyville
+- nelson
+- neosho
+- nevada
+- new bloomfield
+- new cambria
+- new florence
+- new franklin
+- new hampton
+- new haven
+- new london
+- new madrid
+- new melle
+- newburg
+- newtonia
+- newtown
+- niangua
+- nixa
+- noel
+- norborne
+- normandy
+- north kansas city
+- northmoor
+- northwoods
+- norwood
+- norwood court
+- novelty village
+- novinger
+- o'fallon
+- oak grove
+- oak grove village village
+- oak ridge
+- oakland
+- oaks village
+- oakview village
+- oakville
+- oakwood park village
+- oakwood village
+- odessa
+- old jamestown
+- old monroe
+- olean
+- olivette
+- olympian village
+- oran
+- oregon
+- oronogo
+- orrick
+- osage beach
+- osborn
+- osceola
+- otterville
+- overland
+- owensville
+- oxly
+- ozark
+- ozora
+- pacific
+- pagedale
+- palmyra
+- paris
+- park hills
+- parkdale village
+- parkville
+- parkway village
+- parma
+- parnell
+- pasadena hills
+- pasadena park village
+- pascola village
+- pattonsburg
+- peculiar
+- perry
+- perryville
+- pevely
+- phillipsburg village
+- pickering
+- piedmont
+- pierce city
+- pilot grove
+- pilot knob
+- pine lawn
+- pineville
+- plato village
+- platte city
+- platte woods
+- plattsburg
+- pleasant hill
+- pleasant hope
+- pleasant valley
+- pocahontas
+- polo
+- pomona
+- pontiac
+- poplar bluff
+- portage des sioux
+- portageville
+- potosi
+- prairie home
+- prathersville village
+- preston village
+- princeton
+- purcell
+- purdin
+- purdy
+- puxico
+- queen city
+- qulin
+- ravenwood
+- raymondville
+- raymore
+- raytown
+- rayville village
+- redings mill village
+- reeds spring
+- renick village
+- rensselaer village
+- republic
+- rhineland
+- rich hill
+- richland
+- richmond
+- richmond heights
+- ridgely village
+- ridgeway
+- risco
+- riverside
+- riverview village
+- rocheport
+- rock hill
+- rock port
+- rockaway beach
+- rockville
+- rogersville
+- rolla
+- roscoe village
+- rosebud
+- rosendale
+- rush hill village
+- rushville
+- russellville
+- rutledge
+- saddlebrooke village
+- saginaw village
+- salem
+- salisbury
+- sappington
+- sarcoxie
+- savannah
+- schell city
+- scotsdale
+- scott city
+- sedalia
+- sedgewickville village
+- seligman
+- senath
+- seneca
+- seymour
+- shelbina
+- shelbyville
+- sheldon
+- shell knob
+- sheridan
+- shoal creek drive village
+- shrewsbury
+- sibley village
+- sikeston
+- silex village
+- silver creek village
+- skidmore
+- slater
+- smithton
+- smithville
+- south fork
+- southwest city
+- spanish lake
+- sparta
+- spickard
+- spokane
+- springfield
+- st ann
+- st charles
+- st clair
+- st elizabeth village
+- st francisville
+- st george
+- st james
+- st john
+- st joseph
+- st louis
+- st martins
+- st mary
+- st paul
+- st peters
+- st robert
+- st thomas
+- stanberry
+- stark city
+- ste. genevieve
+- steele
+- steelville
+- stella
+- stewartsville
+- stockton
+- stotts city
+- stoutland
+- stover
+- strafford
+- strasburg
+- sturgeon
+- sugar creek
+- sullivan
+- summersville
+- sumner
+- sunrise beach village
+- sunset hills
+- sweet springs
+- sycamore hills village
+- syracuse
+- tallapoosa
+- taneyville village
+- taos
+- tarkio
+- terre du lac
+- thayer
+- theodosia village
+- tina village
+- tipton
+- town and country
+- tracy
+- trenton
+- trimble
+- troy
+- truesdale
+- turney village
+- tuscumbia
+- twin oaks village
+- union
+- union star
+- unionville
+- university city
+- uplands park village
+- urbana
+- urich
+- utica village
+- valley park
+- van buren
+- vandalia
+- vanduser village
+- velda city
+- velda village hills village
+- verona
+- versailles
+- viburnum
+- vienna
+- villa ridge
+- village of four seasons village
+- vinita park
+- vinita terrace village
+- walker
+- walnut grove
+- wardell
+- wardsville village
+- warrensburg
+- warrenton
+- warsaw
+- warson woods
+- washburn
+- washington
+- wasola
+- watson village
+- waverly
+- wayland
+- waynesville
+- weatherby
+- weatherby lake
+- weaubleau
+- webb city
+- webster groves
+- weingarten
+- weldon spring
+- wellington
+- wellston
+- wellsville
+- wentworth village
+- wentzville
+- west alton
+- west plains
+- west sullivan
+- westboro
+- weston
+- westphalia
+- westwood village
+- wheatland
+- wheaton
+- wheeling
+- whiteman afb
+- whitewater
+- wilbur park village
+- wildwood
+- willard
+- williamsville
+- willow springs
+- wilson city village
+- winchester
+- windsor
+- windsor place village
+- winfield
+- winona
+- winston village
+- wood heights
+- woodson terrace
+- wortham
+- wright city
+- wyaconda
+- wyatt
+- zalma village

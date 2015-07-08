@@ -1,0 +1,469 @@
+---
+- abbeville
+- abita springs
+- addis
+- albany village
+- alexandria
+- ama
+- amelia
+- amite city
+- anacoco village
+- angie village
+- arabi
+- arcadia
+- arnaudville
+- ashland village
+- athens village
+- atlanta village
+- avondale
+- baker
+- baldwin
+- ball
+- banks springs
+- barataria
+- basile
+- baskin village
+- bastrop
+- baton rouge
+- bawcomville
+- bayou blue
+- bayou cane
+- bayou country club
+- bayou gauche
+- bayou goula
+- bayou l'ourse
+- bayou vista
+- belcher village
+- belle chasse
+- belle rose
+- belmont
+- benton
+- bernice
+- berwick
+- bienville village
+- blanchard
+- bogalusa
+- bonita village
+- boothville
+- bordelonville
+- bossier city
+- bourg
+- boutte
+- boyce
+- branch
+- breaux bridge
+- bridge city
+- broussard
+- brownfields
+- brownsville
+- brusly
+- bryceland village
+- bunkie
+- buras
+- cade
+- calhoun
+- calvin village
+- cameron
+- campti
+- cankton village
+- carencro
+- carlyss
+- castor village
+- catahoula
+- cecilia
+- center point
+- central
+- chackbay
+- chalmette
+- charenton
+- chataignier village
+- chatham
+- chauvin
+- cheneyville
+- choctaw
+- choudrant village
+- church point
+- claiborne
+- clarence village
+- clarks village
+- clayton
+- clinton
+- colfax
+- collinston village
+- columbia
+- convent
+- converse village
+- cotton valley
+- cottonport
+- coushatta
+- covington
+- creola village
+- crescent
+- crowley
+- cullen
+- cut off
+- delcambre
+- delhi
+- delta village
+- denham springs
+- dequincy
+- deridder
+- des allemands
+- destrehan
+- deville
+- dixie inn village
+- dodson village
+- donaldsonville
+- downsville village
+- doyline village
+- dry prong village
+- dubach
+- dubberly village
+- dulac
+- duson
+- east hodge village
+- eastwood
+- eden isle
+- edgard
+- edgefield village
+- egan
+- elizabeth
+- elmwood
+- elton
+- empire
+- epps village
+- erath
+- eros
+- erwinville
+- estelle
+- estherwood village
+- eunice
+- evergreen
+- farmerville
+- fenton village
+- ferriday
+- fifth ward
+- fisher village
+- florien village
+- folsom village
+- fordoche
+- forest hill village
+- forest village
+- fort jesup
+- fort polk north
+- fort polk south
+- franklin
+- franklinton
+- french settlement village
+- frierson
+- galliano
+- gardere
+- garyville
+- georgetown village
+- gibsland
+- gilbert village
+- gilliam village
+- gillis
+- glencoe
+- glenmora
+- golden meadow
+- goldonna village
+- gonzales
+- grambling
+- gramercy
+- grand cane village
+- grand coteau
+- grand isle
+- grand point
+- gray
+- grayson village
+- greensburg
+- greenwood
+- gretna
+- grosse tete village
+- gueydan
+- hackberry
+- hahnville
+- hall summit village
+- hammond
+- harahan
+- harrisonburg village
+- harvey
+- haughton
+- hayes
+- haynesville
+- heflin village
+- henderson
+- hessmer village
+- hester
+- hodge village
+- homer
+- hornbeck
+- hosston village
+- houma
+- ida village
+- independence
+- inniswold
+- iota
+- iowa
+- jackson
+- jamestown village
+- jean lafitte
+- jeanerette
+- jefferson
+- jena
+- jennings
+- jonesboro
+- jonesville
+- jordan hill
+- joyce
+- junction city village
+- kaplan
+- keachi
+- kenner
+- kentwood
+- kilbourne village
+- killian
+- killona
+- kinder
+- kraemer
+- krotz springs
+- labadieville
+- lacassine
+- lacombe
+- lafayette
+- lafitte
+- lafourche crossing
+- lake arthur
+- lake charles
+- lake providence
+- lakeshore
+- lakeview
+- laplace
+- larose
+- lawtell
+- lecompte
+- leesville
+- lemannville
+- leonville
+- lillie village
+- lisbon village
+- livingston
+- livonia
+- lockport
+- lockport heights
+- logansport
+- longstreet village
+- longville
+- loreauville village
+- lucky village
+- luling
+- lutcher
+- lydia
+- madisonville
+- mamou
+- mandeville
+- mangham
+- mansfield
+- mansura
+- many
+- maringouin
+- marion
+- marksville
+- marrero
+- martin village
+- mathews
+- maurice village
+- mcnary village
+- melville
+- mer rouge village
+- meraux
+- mermentau village
+- merrydale
+- merryville
+- metairie
+- midway
+- milton
+- minden
+- minorca
+- monroe
+- montegut
+- monterey
+- montgomery
+- monticello
+- montpelier village
+- montz
+- moonshine
+- mooringsport
+- moreauville village
+- morgan city
+- morganza village
+- morse village
+- moss bluff
+- napoleonville village
+- natalbany
+- natchez village
+- natchitoches
+- new iberia
+- new llano
+- new orleans
+- new roads
+- new sarpy
+- newellton
+- noble village
+- norco
+- north hodge village
+- north vacherie
+- norwood village
+- oak grove
+- oak hills place
+- oak ridge village
+- oakdale
+- oberlin
+- oil city
+- old jefferson
+- olla
+- opelousas
+- oretta
+- ossun
+- paincourtville
+- palmetto village
+- paradis
+- parks village
+- patterson
+- paulina
+- pearl river
+- pierre part
+- pine prairie village
+- pineville
+- pioneer village
+- pitkin
+- plain dealing
+- plaquemine
+- plaucheville village
+- pleasant hill village
+- pleasure bend
+- point place
+- pointe a la hache
+- pollock
+- ponchatoula
+- port allen
+- port barre
+- port sulphur
+- port vincent village
+- powhatan village
+- poydras
+- prairieville
+- presquille
+- prien
+- prospect
+- provencal village
+- quitman village
+- raceland
+- rayne
+- rayville
+- red chute
+- reddell
+- reeves village
+- reserve
+- richmond village
+- richwood
+- ridgecrest
+- ringgold
+- river ridge
+- roanoke
+- robeline village
+- rock hill
+- rodessa village
+- romeville
+- rosedale village
+- roseland
+- rosepine
+- ruston
+- saline village
+- sarepta
+- schriever
+- scott
+- shenandoah
+- shongaloo village
+- shreveport
+- sibley
+- sicily island village
+- sikes village
+- simmesport
+- simpson village
+- simsboro village
+- singer
+- siracusaville
+- slaughter
+- slidell
+- sorrel
+- sorrento
+- south mansfield village
+- south vacherie
+- spearsville village
+- spokane
+- springfield
+- springhill
+- st francisville
+- st gabriel
+- st james
+- st joseph
+- st martinville
+- st maurice
+- st rose
+- stanley village
+- starks
+- start
+- sterlington
+- stonewall
+- sulphur
+- sun village
+- sunset
+- supreme
+- swartz
+- tallulah
+- tangipahoa village
+- terrytown
+- thibodaux
+- tickfaw village
+- timberlane
+- triumph
+- tullos
+- turkey creek village
+- union
+- urania
+- varnado village
+- venice
+- ventress
+- vidalia
+- vienna
+- vienna bend
+- village st george
+- ville platte
+- vinton
+- violet
+- vivian
+- waggaman
+- walker
+- wallace
+- wallace ridge
+- washington
+- waterproof
+- watson
+- welcome
+- welsh
+- west monroe
+- westlake
+- westminster
+- westwego
+- white castle
+- wilson village
+- winnfield
+- winnsboro
+- wisner
+- woodmere
+- woodworth
+- youngsville
+- zachary
+- zwolle

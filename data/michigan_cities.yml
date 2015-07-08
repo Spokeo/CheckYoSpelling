@@ -1,0 +1,683 @@
+---
+- addison village
+- adrian
+- advance
+- ahmeek village
+- akron village
+- alanson village
+- alba
+- albion
+- alden
+- algonac
+- allegan
+- allen park
+- allen village
+- allendale
+- alma
+- almont village
+- alpena
+- alpha village
+- amasa
+- ann arbor
+- applegate village
+- arcadia
+- argentine
+- armada village
+- ashley village
+- athens village
+- atlanta
+- attica
+- au gres
+- au sable
+- auburn
+- auburn hills
+- augusta village
+- bad axe
+- baldwin village
+- bancroft village
+- bangor
+- baraga village
+- barnes lake millers lake
+- baroda village
+- barryton village
+- barton hills village
+- bath
+- battle creek
+- bay city
+- bay port
+- bay shore
+- bay view
+- beal city
+- bear lake
+- bear lake village
+- beaverton
+- beecher
+- beechwood
+- belding
+- bellaire village
+- belleville
+- bellevue village
+- bendon
+- benton harbor
+- benton heights
+- benzonia village
+- berkley
+- berrien springs village
+- bessemer
+- beulah village
+- beverly hills village
+- big bay
+- big rapids
+- bingham farms village
+- birch run village
+- birmingham
+- blissfield village
+- bloomfield hills
+- bloomingdale village
+- boon
+- boyne city
+- boyne falls village
+- breckenridge village
+- breedsville village
+- brethren
+- bridgeport
+- bridgman
+- brighton
+- britton village
+- bronson
+- brooklyn village
+- brown city
+- brownlee park
+- brutus
+- buchanan
+- buckley village
+- buena vista
+- burlington village
+- burr oak village
+- burt
+- burton
+- byron center
+- byron village
+- cadillac
+- caledonia village
+- calumet village
+- camden village
+- canada creek ranch
+- canadian lakes
+- capac village
+- carleton village
+- carney village
+- caro village
+- carp lake
+- carson city
+- carsonville village
+- caseville village
+- casnovia village
+- caspian
+- cass city village
+- cassopolis village
+- cedar springs
+- cement city village
+- center line
+- central lake village
+- centreville village
+- charlevoix
+- charlotte
+- chatham village
+- cheboygan
+- chelsea
+- chesaning village
+- chums corner
+- clare
+- clarksville village
+- clawson
+- clayton village
+- clifford village
+- climax village
+- clinton village
+- clio
+- coldwater
+- coleman
+- coloma
+- colon village
+- columbiaville village
+- comstock northwest
+- comstock park
+- concord village
+- constantine village
+- conway
+- coopersville
+- copemish village
+- copper city village
+- copper harbor
+- corunna
+- croswell
+- crystal falls
+- custer village
+- cutlerville
+- daggett village
+- dansville village
+- davison
+- de tour village village
+- dearborn
+- dearborn heights
+- decatur village
+- deckerville village
+- deerfield village
+- delton
+- detroit
+- detroit beach
+- dewitt
+- dexter village
+- dimondale village
+- dollar bay
+- douglas
+- dowagiac
+- dowling
+- dryden village
+- dundee village
+- durand
+- eagle village
+- east grand rapids
+- east jordan
+- east lansing
+- east tawas
+- eastlake village
+- eastpointe
+- eastport
+- eastwood
+- eaton rapids
+- eau claire village
+- ecorse
+- edgemont park
+- edmore village
+- edwardsburg village
+- elberta village
+- elk rapids village
+- elkton village
+- ellsworth village
+- elsie village
+- emmett village
+- empire village
+- escanaba
+- essexville
+- estral beach village
+- evart
+- fair plain
+- fairgrove village
+- farmington
+- farmington hills
+- farwell village
+- fennville
+- fenton
+- ferndale
+- ferrysburg
+- fife lake village
+- filer city
+- flat rock
+- flint
+- flushing
+- forest hills
+- forestville village
+- fostoria
+- fountain village
+- fowler village
+- fowlerville village
+- frankenmuth
+- frankfort
+- franklin village
+- fraser
+- free soil village
+- freeland
+- freeport village
+- fremont
+- fruitport village
+- gaastra
+- gagetown village
+- gaines village
+- galesburg
+- galien village
+- garden city
+- garden village
+- gaylord
+- gibraltar
+- gladstone
+- gladwin
+- glen arbor
+- gobles
+- goodrich village
+- grand beach village
+- grand blanc
+- grand haven
+- grand ledge
+- grand rapids
+- grandville
+- grant
+- grass lake village
+- grawn
+- grayling
+- greenville
+- greilickville
+- grosse pointe
+- grosse pointe farms
+- grosse pointe park
+- grosse pointe woods
+- gwinn
+- hamtramck
+- hancock
+- hanover village
+- harbor beach
+- harbor springs
+- hardwood acres
+- haring
+- harper woods
+- harrietta village
+- harrison
+- harrisville
+- hart
+- hartford
+- harvey
+- haslett
+- hastings
+- hazel park
+- hemlock
+- henderson
+- hersey village
+- hesperia village
+- hickory corners
+- highland park
+- hillman village
+- hillsdale
+- holland
+- holly village
+- holt
+- homer village
+- honor village
+- hopkins village
+- horton bay
+- houghton
+- houghton lake
+- howard city village
+- howell
+- hubbard lake
+- hubbardston village
+- hubbell
+- hudson
+- hudsonville
+- huntington woods
+- imlay city
+- indian river
+- inkster
+- interlochen
+- ionia
+- iron mountain
+- iron river
+- ironton
+- ironwood
+- ishpeming
+- ithaca
+- jackson
+- jasper
+- jenison
+- jennings
+- jonesville village
+- k. i. sawyer
+- kalamazoo
+- kaleva village
+- kalkaska village
+- keego harbor
+- kent city village
+- kentwood
+- kinde village
+- kingsford
+- kingsley village
+- kingston village
+- l'anse village
+- laingsburg
+- lake angelus
+- lake ann village
+- lake city
+- lake fenton
+- lake isabella village
+- lake leelanau
+- lake linden village
+- lake michigan beach
+- lake odessa village
+- lake orion village
+- lake victoria
+- lakes of the north
+- lakeview village
+- lakewood club village
+- lambertville
+- lansing
+- lapeer
+- lathrup village
+- laurium village
+- lawrence village
+- lawton village
+- le roy village
+- leland
+- lennon village
+- leonard village
+- leslie
+- level park oak park
+- levering
+- lewiston
+- lexington village
+- lincoln park
+- lincoln village
+- linden
+- litchfield
+- livonia
+- loomis
+- lost lake woods
+- lowell
+- ludington
+- luna pier
+- lupton
+- luther village
+- lyons village
+- mackinac island
+- mackinaw city village
+- madison heights
+- mancelona village
+- manchester village
+- manistee
+- manistee lake
+- manistique
+- manitou beach devils lake
+- manton
+- maple city
+- maple grove
+- maple rapids village
+- marcellus village
+- marenisco
+- marine city
+- marion village
+- marlette
+- marquette
+- marshall
+- martin village
+- marysville
+- mason
+- mattawan village
+- maybee village
+- mayville village
+- mcbain
+- mcbride village
+- mecosta village
+- melvin village
+- melvindale
+- memphis
+- mendon village
+- menominee
+- merrill village
+- mesick village
+- metamora village
+- michiana village
+- michigamme
+- michigan center
+- middletown
+- middleville village
+- midland
+- milan
+- milford village
+- millersburg village
+- millington village
+- minden city village
+- mio
+- monroe
+- montague
+- montgomery village
+- montrose
+- morenci
+- morley village
+- morrice village
+- mount clemens
+- mount morris
+- mount pleasant
+- muir village
+- mulliken village
+- munising
+- muskegon
+- muskegon heights
+- napoleon
+- nashville village
+- negaunee
+- new baltimore
+- new buffalo
+- new era village
+- new haven village
+- new lothrop village
+- new troy
+- newaygo
+- newberry village
+- niles
+- north adams village
+- north branch village
+- north muskegon
+- northport village
+- northview
+- northville
+- norton shores
+- norway
+- norwood
+- novi
+- oak hill
+- oak park
+- oakley village
+- oden
+- okemos
+- olivet
+- omena
+- omer
+- onaway
+- onekama village
+- onsted village
+- ontonagon village
+- orchard lake village
+- ortonville village
+- oscoda
+- ossineke
+- otisville village
+- otsego
+- otter lake village
+- ovid village
+- owendale village
+- owosso
+- oxford village
+- palmer
+- parchment
+- parkdale
+- parma village
+- paw paw lake
+- paw paw village
+- pearl beach
+- peck village
+- pellston village
+- pentwater village
+- perrinton village
+- perry
+- petersburg
+- petoskey
+- pewamo village
+- pierson village
+- pigeon village
+- pinckney village
+- pinconning
+- plainwell
+- pleasant ridge
+- plymouth
+- pontiac
+- port austin village
+- port hope village
+- port huron
+- port sanilac village
+- portage
+- portland
+- posen village
+- potterville
+- powers village
+- prescott village
+- presque isle harbor
+- prudenville
+- quincy village
+- quinnesec
+- rapid city
+- ravenna village
+- reading
+- reed city
+- reese village
+- republic
+- richland village
+- richmond
+- river rouge
+- riverview
+- robin glen indiantown
+- rochester
+- rochester hills
+- rockford
+- rockwood
+- rogers city
+- romeo village
+- romulus
+- roosevelt park
+- roscommon village
+- rose city
+- rosebush village
+- roseville
+- rothbury village
+- royal oak
+- saginaw
+- saline
+- sand lake
+- sand lake village
+- sandusky
+- sanford village
+- saranac village
+- saugatuck
+- sault ste. marie
+- schoolcraft village
+- scottville
+- sebewaing village
+- shelby village
+- shepherd village
+- sheridan village
+- sherwood village
+- shields
+- shoreham village
+- shorewood tower hills harbert
+- skidway lake
+- snover
+- south boardman
+- south gull lake
+- south haven
+- south lyon
+- south monroe
+- south range village
+- south rockwood village
+- southfield
+- southgate
+- sparta village
+- spring arbor
+- spring lake village
+- springfield
+- springport village
+- st charles village
+- st clair
+- st clair shores
+- st helen
+- st ignace
+- st james
+- st johns
+- st joseph
+- st louis
+- standish
+- stanton
+- stanwood village
+- stephenson
+- sterling heights
+- sterling village
+- stevensville village
+- stockbridge village
+- stony point
+- stronach
+- sturgis
+- sunfield village
+- suttons bay village
+- swartz creek
+- sylvan lake
+- tawas city
+- taylor
+- tecumseh
+- tekonsha village
+- temperance
+- thompsonville village
+- three oaks village
+- three rivers
+- traverse city
+- trenton
+- trowbridge park
+- troy
+- turner village
+- tustin village
+- twin lake
+- twining village
+- ubly village
+- union city village
+- unionville village
+- utica
+- vandalia village
+- vanderbilt village
+- vandercook lake
+- vassar
+- vermontville village
+- vernon village
+- vicksburg village
+- village of clarkston
+- village of grosse pointe shores
+- vineyard lake
+- wacousta
+- wakefield
+- waldron village
+- walker
+- walkerville village
+- walled lake
+- walloon lake
+- warren
+- watersmeet
+- watervliet
+- waverly
+- wayland
+- wayne
+- webberville village
+- wedgewood
+- weidman
+- wellston
+- west branch
+- west ishpeming
+- west monroe
+- westland
+- westphalia village
+- westwood
+- white cloud
+- white pigeon village
+- white pine
+- whitehall
+- whitmore lake
+- whittemore
+- williamston
+- wixom
+- wolf lake
+- wolverine lake village
+- wolverine village
+- woodhaven
+- woodland beach
+- woodland village
+- wyandotte
+- wyoming
+- yale
+- ypsilanti
+- zeba
+- zeeland
+- zilwaukee

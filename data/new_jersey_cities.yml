@@ -1,0 +1,536 @@
+---
+- absecon
+- allendale borough
+- allenhurst borough
+- allentown borough
+- allenwood
+- alloway
+- alpha borough
+- alpine borough
+- anderson
+- andover borough
+- annandale
+- asbury
+- asbury park
+- ashland
+- atlantic city
+- atlantic highlands borough
+- audubon borough
+- audubon park borough
+- avalon borough
+- avenel
+- avon by the sea borough
+- barclay
+- barnegat
+- barnegat light borough
+- barrington borough
+- bay head borough
+- bayonne
+- beach haven borough
+- beach haven west
+- beachwood borough
+- beattystown
+- beckett
+- belford
+- belle mead
+- belleplain
+- bellmawr borough
+- belmar borough
+- belvidere
+- bergenfield borough
+- berlin borough
+- bernardsville borough
+- beverly
+- blackwells mills
+- blackwood
+- blairstown
+- blawenburg
+- bloomingdale borough
+- bloomsbury borough
+- bogota borough
+- boonton
+- bordentown
+- bound brook borough
+- bradley beach borough
+- bradley gardens
+- brainards
+- branchville borough
+- brass castle
+- bridgeton
+- bridgeville
+- brielle borough
+- brigantine
+- broadway
+- brookdale
+- brookfield
+- brooklawn borough
+- browns mills
+- brownville
+- budd lake
+- buena borough
+- burleigh
+- burlington
+- butler borough
+- buttzville
+- caldwell borough
+- califon borough
+- camden
+- cape may
+- cape may court house
+- cape may point borough
+- carlstadt borough
+- carneys point
+- carteret borough
+- cedar glen lakes
+- cedar glen west
+- cedarville
+- chatham borough
+- cherry hill mall
+- chesilhurst borough
+- chester borough
+- clayton borough
+- clearbrook park
+- clementon borough
+- cliffside park borough
+- cliffwood beach
+- clifton
+- clinton
+- closter borough
+- clyde
+- collings lakes
+- collingswood borough
+- colonia
+- columbia
+- concordia
+- corbin city
+- country lake estates
+- cranbury
+- crandon lakes
+- cresskill borough
+- crestwood village
+- dayton
+- deal borough
+- delaware
+- delaware park
+- demarest borough
+- diamond beach
+- dover
+- dover beaches north
+- dover beaches south
+- dumont borough
+- dunellen borough
+- east franklin
+- east freehold
+- east millstone
+- east newark borough
+- east orange
+- east rocky hill
+- east rutherford borough
+- eatontown borough
+- echelon
+- edgewater borough
+- egg harbor city
+- elizabeth
+- ellisburg
+- elmer borough
+- elmwood park borough
+- elwood
+- emerson borough
+- englewood
+- englewood cliffs borough
+- englishtown borough
+- erma
+- essex fells borough
+- estell manor
+- fair haven borough
+- fair lawn borough
+- fairton
+- fairview
+- fairview borough
+- fanwood borough
+- far hills borough
+- farmingdale borough
+- fieldsboro borough
+- finderne
+- finesville
+- flemington borough
+- florence
+- florham park borough
+- folsom borough
+- fords
+- forked river
+- fort dix
+- fort lee borough
+- franklin borough
+- franklin center
+- franklin lakes borough
+- franklin park
+- freehold borough
+- frenchtown borough
+- garfield
+- garwood borough
+- gibbsboro borough
+- gibbstown
+- glassboro borough
+- glen gardner borough
+- glen ridge borough
+- glen rock borough
+- glendora
+- gloucester city
+- golden triangle
+- great meadows
+- green knoll
+- greentree
+- greenwich
+- griggstown
+- groveville
+- guttenberg
+- hackensack
+- hackettstown
+- haddon heights borough
+- haddonfield borough
+- haledon borough
+- hamburg borough
+- hamilton square
+- hammonton
+- hampton borough
+- hancocks bridge
+- harlingen
+- harmony
+- harrington park borough
+- harrison
+- harvey cedars borough
+- hasbrouck heights borough
+- haworth borough
+- hawthorne borough
+- heathcote
+- helmetta borough
+- hi nella borough
+- high bridge borough
+- highland lake
+- highland park borough
+- highlands borough
+- hightstown borough
+- hillsdale borough
+- ho ho kus borough
+- hoboken
+- holiday city berkeley
+- holiday city south
+- holiday heights
+- hopatcong borough
+- hope
+- hopewell borough
+- hutchinson
+- interlaken borough
+- iselin
+- island heights borough
+- jamesburg borough
+- jersey city
+- johnsonburg
+- juliustown
+- keansburg borough
+- kearny
+- kendall park
+- kenilworth borough
+- kenvil
+- keyport borough
+- kingston
+- kingston estates
+- kinnelon borough
+- lake como borough
+- lake mohawk
+- lake telemark
+- lakehurst borough
+- lakewood
+- lambertville
+- laurel lake
+- laurel springs borough
+- laurence harbor
+- lavallette borough
+- lawnside borough
+- lawrenceville
+- lebanon borough
+- leisure knoll
+- leisure village
+- leisure village east
+- leisure village west
+- leisuretowne
+- leonardo
+- leonia borough
+- lincoln park borough
+- lincroft
+- linden
+- lindenwold borough
+- linwood
+- little ferry borough
+- little silver borough
+- loch arbour village
+- lodi borough
+- long branch
+- long valley
+- longport borough
+- lopatcong overlook
+- madison borough
+- madison park
+- magnolia borough
+- manahawkin
+- manasquan borough
+- mantoloking borough
+- manville borough
+- margate city
+- marlton
+- martinsville
+- matawan borough
+- mays landing
+- maywood borough
+- mcguire afb
+- medford lakes borough
+- mendham borough
+- mercerville
+- merchantville borough
+- metuchen borough
+- middlebush
+- middlesex borough
+- midland park borough
+- milford borough
+- millstone borough
+- milltown borough
+- millville
+- monmouth beach borough
+- monmouth junction
+- montvale borough
+- moonachie borough
+- moorestown lenola
+- morganville
+- morris plains borough
+- morristown
+- mount arlington borough
+- mount ephraim borough
+- mount hermon
+- mountain lake
+- mountain lakes borough
+- mountainside borough
+- mullica hill
+- mystic island
+- national park borough
+- navesink
+- neptune city borough
+- netcong borough
+- new brunswick
+- new egypt
+- new milford borough
+- new providence borough
+- new village
+- newark
+- newfield borough
+- newton
+- north arlington borough
+- north beach haven
+- north caldwell borough
+- north cape may
+- north haledon borough
+- north middletown
+- north plainfield borough
+- north wildwood
+- northfield
+- northvale borough
+- norwood borough
+- oak valley
+- oakhurst
+- oakland borough
+- oaklyn borough
+- ocean acres
+- ocean city
+- ocean gate borough
+- ocean grove
+- oceanport borough
+- ogdensburg borough
+- old bridge
+- old tappan borough
+- olivet
+- oradell borough
+- oxford
+- palisades park borough
+- palmyra borough
+- panther valley
+- paramus borough
+- park ridge borough
+- passaic
+- paterson
+- paulsboro borough
+- peapack and gladstone borough
+- pedricktown
+- pemberton borough
+- pemberton heights
+- pennington borough
+- penns grove borough
+- pennsville
+- perth amboy
+- phillipsburg
+- pine beach borough
+- pine hill borough
+- pine lake park
+- pine ridge at crestwood
+- pitman borough
+- plainfield
+- plainsboro center
+- pleasant plains
+- pleasantville
+- point pleasant beach borough
+- point pleasant borough
+- pomona
+- pompton lakes borough
+- port colden
+- port monmouth
+- port murray
+- port norris
+- port reading
+- port republic
+- presidential lakes estates
+- princeton borough
+- princeton junction
+- princeton meadows
+- prospect park borough
+- quinton
+- rahway
+- ramblewood
+- ramsey borough
+- ramtown
+- raritan borough
+- red bank borough
+- richwood
+- ridgefield borough
+- ridgefield park village
+- ridgewood village
+- ringwood borough
+- rio grande
+- river edge borough
+- riverdale borough
+- riverton borough
+- robbinsville
+- robertsville
+- rockaway borough
+- rockleigh borough
+- rocky hill borough
+- roebling
+- roosevelt borough
+- roseland borough
+- roselle borough
+- roselle park borough
+- rosenhayn
+- rossmoor
+- rumson borough
+- runnemede borough
+- rutherford borough
+- saddle river borough
+- salem
+- sayreville borough
+- sea bright borough
+- sea girt borough
+- sea isle city
+- seabrook farms
+- seaside heights borough
+- seaside park borough
+- secaucus
+- sewaren
+- shark river hills
+- shiloh borough
+- ship bottom borough
+- short hills
+- shrewsbury borough
+- silver lake
+- silver ridge
+- singac
+- six mile run
+- skillman
+- smithville
+- society hill
+- somerdale borough
+- somers point
+- somerset
+- somerville borough
+- south amboy
+- south bound brook borough
+- south plainfield borough
+- south river borough
+- south toms river borough
+- spotswood borough
+- spring lake borough
+- spring lake heights borough
+- springdale
+- stanhope borough
+- stewartsville
+- stockton borough
+- stone harbor borough
+- stratford borough
+- strathmere
+- strathmore
+- succasunna
+- summit
+- surf city borough
+- sussex borough
+- swedesboro borough
+- ten mile run
+- tenafly borough
+- tinton falls borough
+- toms river
+- totowa borough
+- trenton
+- tuckerton borough
+- turnersville
+- twin rivers
+- union beach borough
+- union city
+- upper montclair
+- upper pohatcong
+- upper saddle river borough
+- upper stewartsville
+- ventnor city
+- vernon center
+- vernon valley
+- victory gardens borough
+- victory lakes
+- vienna
+- villas
+- vineland
+- vista center
+- voorhees
+- waldwick borough
+- wallington borough
+- wanamassa
+- wanaque borough
+- waretown
+- washington borough
+- watchung borough
+- wenonah borough
+- west belmar
+- west cape may borough
+- west freehold
+- west long branch borough
+- west new york
+- west wildwood borough
+- westfield
+- weston
+- westville borough
+- westwood borough
+- wharton borough
+- white horse
+- white house station
+- white meadow lake
+- whitesboro
+- whittingham
+- wildwood
+- wildwood crest borough
+- williamstown
+- wood ridge borough
+- woodbine borough
+- woodbridge
+- woodbury
+- woodbury heights borough
+- woodcliff lake borough
+- woodland park borough
+- woodlynne borough
+- woodstown borough
+- wrightstown borough
+- yardville
+- yorketown
