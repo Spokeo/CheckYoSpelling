@@ -4,7 +4,6 @@ module SpellChecker
       # Use the Levenshtein gem to find the closest match
       # NOTE: the gem treats replacement edits as a distance of 2
       MIN_DISTANCE = 4
-      NUM_STREETS = 10000 # number large enough to get every street in a city
       class << self
         # Find the closest existing city in the state
         def check_city city, state
