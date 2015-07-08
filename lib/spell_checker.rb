@@ -1,4 +1,4 @@
-require 'spell_checker/usa/spell_checker'
+require 'spell_checker/usa'
 
 module SpellChecker
 end
