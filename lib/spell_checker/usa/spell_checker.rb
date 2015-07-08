@@ -34,7 +34,7 @@ module SpellChecker
             end
             break if distance == 0 # Found perfect match
           end
-          best_match = present(best_match) if best_match
+          best_match = titleize(best_match) if best_match
           best_match
         end
 
@@ -42,7 +42,8 @@ module SpellChecker
           YAML.load_file(File.join(File.dirname(__FILE__), "/../../../data/", filename))
         end
 
-        def present string
+        # Basic titleize functionality ex: rhode island => Rhode Island
+        def titleize string
           string.gsub(/\w+/) do |word|
             word.capitalize
           end
