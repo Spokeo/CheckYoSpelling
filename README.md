@@ -16,11 +16,11 @@ or install it yourself as:
 ```ruby
 
 # State Checking
-SpellChecker::USA::SpellChecker.check_state("Alabma")
+SpellChecker::USA.check_state("Alabma")
 # => "Alabama"
 
 # City Checking
-SpellChecker::USA::SpellChecker.check_city("Montgomry", "AL")
+SpellChecker::USA.check_city("Montgomry", "AL")
 # => "Montgomery"
 
 ## Contributing
