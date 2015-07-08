@@ -6,23 +6,23 @@ module SpellCheckerUSA
     NUM_STREETS = 10000 # number large enough to get every street in a city
     class << self
       # Find the closest existing city in the state
-      def correct_city city, state
+      def check_city city, state
         full_state = Geolookup::USA::State.abbreviation_to_name state
         return nil if full_state.nil?
         @@city_arrays ||= Hash.new
         filename = "#{full_state.downcase.gsub(" ", "_")}_cities.yml"
         @@city_arrays[filename] ||= words(filename)
-        correct city, @@city_arrays[filename]
+        check city, @@city_arrays[filename]
       end
 
       # Find the closest existing state
-      def correct_state state
+      def check_state state
         @@states ||= words("states.yml")
-        correct state, @@states
+        check state, @@states
       end
 
     private
-      def correct word, nwords
+      def check word, nwords
         word.downcase!
         best_match = nil # return nil if no match
         current_distance = MIN_DISTANCE # only accept possible matches that are close enough
