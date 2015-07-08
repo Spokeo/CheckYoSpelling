@@ -25,7 +25,7 @@ SpellCheckerUSA::SpellChecker.check_city("Montgomry", "AL")
 
 ## Contributing
 
-1. Fork it ( http://github.com/Spokeo/spell_check_usa/fork )
+1. Fork it ( http://github.com/Spokeo/SpellCheckerUSA/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Write specs!
 4. Commit your changes (`git commit -am 'Add some feature'`)
