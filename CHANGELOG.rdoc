@@ -1,2 +1,5 @@
+=== 0.1.1
+- Moving some stuff around.  Adding geolookup and levenshtein as hard dependencies.
+
 === 0.1.0
 - Initial Gem

@@ -2,6 +2,8 @@ PATH
   remote: .
   specs:
     check_yo_spelling (0.1.0)
+      geolookup (~> 0.5.10)
+      levenshtein (~> 0.2.2)
 
 GEM
   remote: https://rubygems.org/
@@ -30,7 +32,5 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 1.5)
   check_yo_spelling!
-  geolookup (~> 0.5.10)
-  levenshtein (~> 0.2.2)
   rake
   rspec (~> 3.3.0)
