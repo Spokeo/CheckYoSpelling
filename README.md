@@ -3,27 +3,32 @@
 [![Build Status](https://travis-ci.org/Spokeo/CheckYoSpelling.svg)](https://travis-ci.org/Spokeo/CheckYoSpelling)
 
 
-This gem offers spelling suggestions for cities and states in the United States
+This gem offers spelling suggestions for cities and states in the United States.
 
 ## Installation
 
 Add this line to your applications's Gemfile:
+```ruby
   gem 'check_yo_spelling'
-
+```
 and then execute:
+```bash
   $ bundle
-
+```
 or install it yourself as:
+```bash
   $ gem install 'check_yo_spelling'
-
+```
 ## Examples
 ```ruby
 
 # State Checking
+# Checks against all states in the U.S.
 CheckYoSpelling::USA.check_state("Alabma")
 # => "Alabama"
 
 # City Checking
+# Checks for cities in the state for suggestions
 CheckYoSpelling::USA.check_city("Montgomry", "AL")
 # => "Montgomery"
 ```
