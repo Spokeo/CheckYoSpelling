@@ -26,7 +26,7 @@ CheckYoSpelling::USA.check_state("Alabma")
 # City Checking
 CheckYoSpelling::USA.check_city("Montgomry", "AL")
 # => "Montgomery"
-
+```
 ## Contributing
 
 1. Fork it ( http://github.com/Spokeo/CheckYoSpelling/fork )
